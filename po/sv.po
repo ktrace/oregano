@@ -8,1018 +8,781 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sv\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-09-11 02:36-0300\n"
+"POT-Creation-Date: 2019-01-06 01:38+0300\n"
 "PO-Revision-Date: 2005-10-22 14:47+0200\n"
 "Last-Translator: Peter Landgren <peter.talken@telia.com>\n"
 "Language-Team: Svenska <sv@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-1\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.9.1\n"
 
-#: ../data/dialogs/clamp-properties-dialog.glade2.h:1
-msgid "<b>AC Analysis Options</b>"
-msgstr "<b>AC-analysalternativ</b>"
+#: ../data/oregano.desktop.in.h:1
+msgid "Oregano"
+msgstr "Oregano"
 
-#: ../data/dialogs/clamp-properties-dialog.glade2.h:2
-msgid "<b>Type</b>"
-msgstr "<b>Typ</b>"
-
-#: ../data/dialogs/clamp-properties-dialog.glade2.h:3
-msgid "Current"
-msgstr "Aktuell"
-
-#: ../data/dialogs/clamp-properties-dialog.glade2.h:4
-msgid "Edit Clamp properties"
-msgstr "Ändra mätpunktsgenskaper"
-
-#: ../data/dialogs/clamp-properties-dialog.glade2.h:5
-msgid "Imaginary part"
-msgstr "Imaginär del"
-
-#: ../data/dialogs/clamp-properties-dialog.glade2.h:6
-msgid "Magnitude"
-msgstr "Magnitud"
-
-#: ../data/dialogs/clamp-properties-dialog.glade2.h:7
-msgid "Phase"
-msgstr "Fas"
-
-#: ../data/dialogs/clamp-properties-dialog.glade2.h:8
-msgid "Real part"
-msgstr "Realdel"
-
-#: ../data/dialogs/clamp-properties-dialog.glade2.h:9
-msgid "Use decibel scale"
-msgstr "Använd decibelskala"
-
-#: ../data/dialogs/clamp-properties-dialog.glade2.h:10
-msgid "Voltage"
-msgstr "Spänning"
-
-#: ../data/dialogs/log-window.glade2.h:1
-msgid "Clear"
-msgstr "Töm"
-
-#: ../data/dialogs/log-window.glade2.h:2
-msgid "Oregano Log Window"
-msgstr "Oregano Loggfönster"
-
-#: ../data/dialogs/page-properties.glade2.h:1
-msgid "<b>Alignment</b>"
-msgstr "<b>Inrättning</b>"
-
-#: ../data/dialogs/page-properties.glade2.h:2
-msgid "Center Horizontally"
-msgstr "Centrera horisontellt"
-
-#: ../data/dialogs/page-properties.glade2.h:3
-msgid "Center Vertically"
-msgstr "Centrera vertikalt"
-
-#: ../data/dialogs/page-properties.glade2.h:4
-msgid "Fit to page"
-msgstr "Anpassa till sida"
-
-#: ../data/dialogs/page-properties.glade2.h:5
-msgid "Print Properties"
-msgstr "Utskriftsegenskaper"
-
-#: ../data/dialogs/part-browser.glade2.h:1
-msgid "<b>Preview</b>"
-msgstr "<b>Förhandsgranskning</b>"
-
-#: ../data/dialogs/part-browser.glade2.h:2
-msgid "Library:"
-msgstr "Bibliotek:"
-
-#: ../data/dialogs/part-browser.glade2.h:3 ../src/schematic-view-ui.h:360
-msgid "Parts"
-msgstr "Komponenter"
-
-#: ../data/dialogs/part-browser.glade2.h:4
-msgid "Place"
-msgstr "Placera"
-
-#: ../data/dialogs/part-browser.glade2.h:5
-msgid "Press this button to place the selected part"
-msgstr "Tryck denna knapp fÃ¶r att placera ut vald komponent"
-
-#: ../data/dialogs/part-browser.glade2.h:6
-msgid "Search:"
-msgstr "Sök:"
-
-#: ../data/dialogs/part-browser.glade2.h:7
-msgid "Select which library to use"
-msgstr "Välj bibliotek"
-
-#: ../data/dialogs/part-properties-dialog.glade2.h:1
-msgid "Part Properties"
-msgstr "Komponentegenskaper"
-
-#: ../data/dialogs/plot-window.glade2.h:1
-msgid "<b>Plot</b>"
-msgstr "<b>Diagram</b>"
-
-#: ../data/dialogs/plot-window.glade2.h:2
-msgid "<b>Variables</b>"
-msgstr "<b>Variabler</b>"
-
-#: ../data/dialogs/plot-window.glade2.h:3
-msgid "Plot"
-msgstr "Diagram"
-
-#: ../data/dialogs/plot-window.glade2.h:4
-msgid "Region"
+#: ../data/oregano.desktop.in.h:2
+msgid "Electrical Engineering Tool"
 msgstr ""
 
-#: ../data/dialogs/plot-window.glade2.h:5
-msgid "Shift"
-msgstr ""
-
-#: ../data/dialogs/properties.glade2.h:1
-#: ../data/dialogs/textbox-properties-dialog.glade2.h:1
-msgid "    "
-msgstr "    "
-
-#: ../data/dialogs/properties.glade2.h:2
-msgid "<b>Comments</b>"
-msgstr "<b>Kommentarer</b>"
-
-#: ../data/dialogs/properties.glade2.h:3
-msgid "Author:"
-msgstr "Författare:"
-
-#: ../data/dialogs/properties.glade2.h:4 ../src/sheet/part-item.c:147
-msgid "Properties"
-msgstr "Egenskaper"
-
-#: ../data/dialogs/properties.glade2.h:5
-msgid "Title:"
-msgstr "Titel:"
-
-#: ../data/dialogs/settings.glade2.h:1
-msgid "\n"
-msgstr "\n"
-
-#: ../data/dialogs/settings.glade2.h:3
-msgid "<b>Data Paths</b>"
-msgstr "<b>Datasökvägar</b>"
-
-#: ../data/dialogs/settings.glade2.h:4
-msgid "<b>Engine</b>"
-msgstr "<b>Motor</b>"
-
-#: ../data/dialogs/settings.glade2.h:5
-msgid "<b>Executable Path</b>"
-msgstr "<b>Programsökvägar</b>"
-
-#: ../data/dialogs/settings.glade2.h:6
-msgid "<b>File Format</b>"
-msgstr "<b>Filformat</b>"
-
-#: ../data/dialogs/settings.glade2.h:7
-msgid "<b>User Interface</b>"
-msgstr "<b>Användargränssnitt</b>"
-
-#: ../data/dialogs/settings.glade2.h:8
-msgid "Automatically show log windows after simulation"
-msgstr "Visa loggfönstret automatiskt efter simulering"
-
-#: ../data/dialogs/settings.glade2.h:9
-msgid "Compress saved files"
-msgstr "Komprimera sparade filer"
-
-#: ../data/dialogs/settings.glade2.h:10
-msgid "Grid size[px]   "
-msgstr "Rutnätsstorlek [px]: "
-
-#: ../data/dialogs/settings.glade2.h:11
-msgid "Library"
-msgstr "Bibliotek"
-
-#: ../data/dialogs/settings.glade2.h:12
-msgid "Model"
-msgstr "Modell"
-
-#: ../data/dialogs/settings.glade2.h:13
-msgid "Paths"
-msgstr "Sökvägar"
-
-#: ../data/dialogs/settings.glade2.h:14
-msgid "Preferences"
-msgstr "Preferenser"
-
-#: ../data/dialogs/settings.glade2.h:15
+#: ../data/oregano.desktop.in.h:3
 #, fuzzy
-msgid "Realtime update of selection (slow)"
-msgstr "Realtidsuppdatering av markering (långsamt)"
+msgid "Schematic, capture and simulation of electronic circuits"
+msgstr "Kretsschemadesign och simulering.\n"
 
-#: ../data/dialogs/settings.glade2.h:16
-msgid "Remove"
-msgstr "Ta bort"
-
-#: ../data/dialogs/settings.glade2.h:17
+#: ../data/mime/oregano-mimetypes.xml.in.h:1
 #, fuzzy
-msgid "Select A File"
-msgstr "Markera _allt"
-
-#: ../data/dialogs/settings.glade2.h:18
-msgid "Show the splash screen at application startup"
-msgstr "Visa splash-skärm vid tillämpningsstart"
-
-#: ../data/dialogs/settings.glade2.h:19
-msgid "TODO : Add FINDPATH for Engines"
-msgstr ""
-
-#: ../data/dialogs/settings.glade2.h:20
-msgid "User Interface"
-msgstr "Anvädargrässnitt"
-
-#: ../data/dialogs/sim-settings.glade2.h:1
-msgid "<b>AC</b>"
-msgstr "<b>AC</b>"
-
-#: ../data/dialogs/sim-settings.glade2.h:2
-msgid "<b>DC Sweep</b>"
-msgstr "<b>DC Svep</b>"
-
-#: ../data/dialogs/sim-settings.glade2.h:3
-msgid "<b>Fourier</b>"
-msgstr "<b>Fourier</b>"
-
-#: ../data/dialogs/sim-settings.glade2.h:4
-msgid "<b>Transient</b>"
-msgstr "<b>Transient</b>"
-
-#: ../data/dialogs/sim-settings.glade2.h:5
-msgid "Add new options"
-msgstr ""
-
-#: ../data/dialogs/sim-settings.glade2.h:6
-msgid "Add to list"
-msgstr "Lägg till till lista"
-
-#: ../data/dialogs/sim-settings.glade2.h:7
-msgid "Analysis Options"
-msgstr "Analysalternativ"
-
-#: ../data/dialogs/sim-settings.glade2.h:8
-msgid "Analysis Parameters"
-msgstr "Analysparametrar"
-
-#: ../data/dialogs/sim-settings.glade2.h:9
-msgid "DEC"
-msgstr "DEC"
-
-#: ../data/dialogs/sim-settings.glade2.h:10
-msgid "Frequency"
-msgstr "Frekvens"
-
-#: ../data/dialogs/sim-settings.glade2.h:11
-msgid "LIN"
-msgstr "LIN"
-
-#: ../data/dialogs/sim-settings.glade2.h:12
-msgid "List of outputs"
-msgstr "Utdatalista"
-
-#: ../data/dialogs/sim-settings.glade2.h:13
-msgid "OCT"
-msgstr "OCT"
-
-#: ../data/dialogs/sim-settings.glade2.h:14
-msgid "Points"
-msgstr "Punkter"
-
-#: ../data/dialogs/sim-settings.glade2.h:15
-msgid "Simulation Settings"
-msgstr "Simuleringsinställningar"
-
-#: ../data/dialogs/sim-settings.glade2.h:16
-msgid "Source"
-msgstr "Källa"
-
-#: ../data/dialogs/sim-settings.glade2.h:17
-msgid "Start"
-msgstr "Start"
-
-#: ../data/dialogs/sim-settings.glade2.h:18
-msgid "Step"
-msgstr "Steg"
-
-#: ../data/dialogs/sim-settings.glade2.h:19
-msgid "Stop"
-msgstr "Stopp"
-
-#: ../data/dialogs/sim-settings.glade2.h:20
-msgid "Type"
-msgstr "Typ"
-
-#: ../data/dialogs/sim-settings.glade2.h:21
-msgid "Use Initial Conditions"
-msgstr "Använd startförutsättningar"
-
-#: ../data/dialogs/simulation.glade2.h:1
-#, fuzzy
-msgid "Progress: None"
-msgstr "Förlopp:"
-
-#: ../data/dialogs/simulation.glade2.h:2
-msgid "Simulation"
-msgstr "Simulering"
-
-#: ../data/dialogs/textbox-properties-dialog.glade2.h:2
-msgid "<b>Text</b>"
-msgstr "<b>Text</b>"
-
-#: ../data/dialogs/textbox-properties-dialog.glade2.h:3
-msgid "Text Properties"
-msgstr "Textegenskaper"
-
-#: ../data/dialogs/view-netlist.glade2.h:1
-msgid "Netlist View"
-msgstr "Nätlistvy"
-
-#: ../data/dialogs/view-netlist.glade2.h:2 ../src/schematic-view-ui.h:161
-msgid "_Simulate"
-msgstr "_Simulera"
-
-#: ../src/sheet/part-item.c:147
-msgid "Edit the part's properties"
-msgstr "Ändra komponentens egenskaper"
-
-#: ../src/sheet/part-item.c:616 ../src/sheet/part-item.c:765
-#: ../src/sheet/textbox-item.c:679 ../src/sim-settings.c:775
-#: ../src/settings.c:139 ../src/schematic-view.c:251
-#: ../src/schematic-view.c:317 ../src/schematic-view.c:2431 ../src/plot.c:434
-#: ../src/plot.c:689 ../src/part-browser.c:496 ../src/netlist-editor.c:309
-#, c-format
-msgid ""
-"The file %s could not be found. You might need to reinstall Oregano to fix "
-"this."
-msgstr ""
-
-#: ../src/sheet/part-item.c:618 ../src/sheet/part-item.c:626
-#: ../src/sheet/part-item.c:767 ../src/sheet/part-item.c:775
-msgid "Could not create part properties dialog."
-msgstr "Kunde inte skapa dialogen för komponentegenskaper."
-
-#: ../src/sheet/sheet-item.c:307 ../src/schematic-view-ui.h:288
-msgid "Copy"
-msgstr "Kopiera"
-
-#: ../src/sheet/sheet-item.c:307
-msgid "Copy the object to the clipboard"
-msgstr "Kopiera objektet till urklipp"
-
-#: ../src/sheet/sheet-item.c:310 ../src/schematic-view-ui.h:285
-msgid "Cut"
-msgstr "Klipp ut"
-
-#: ../src/sheet/sheet-item.c:310
-msgid "Cut the object to the clipboard"
-msgstr "Klipp ut objektet till urklipp"
-
-#: ../src/sheet/sheet-item.c:313
-msgid "Delete"
-msgstr "Ta bort"
-
-#: ../src/sheet/sheet-item.c:313
-msgid "Delete the object"
-msgstr "Ta bort objektet"
-
-#: ../src/sheet/sheet-item.c:319
-msgid "Rotate"
-msgstr "Rotera"
-
-#: ../src/sheet/sheet-item.c:320
-msgid "Rotate the selected objects 90 degrees clockwise"
-msgstr "Rotera markeringen 90 grader medsols"
-
-#: ../src/sheet/textbox-item.c:99
-msgid "Edit..."
-msgstr "Redigera..."
-
-#: ../src/sheet/textbox-item.c:99
-msgid "Edit the text"
-msgstr "Redigera texten"
-
-#: ../src/sheet/textbox-item.c:596
-msgid "Label"
-msgstr "Etikett"
-
-#: ../src/sheet/textbox-item.c:681 ../src/sheet/textbox-item.c:690
-#, fuzzy
-msgid "Could not create textbox properties dialog"
-msgstr "Kunde inte skapa dialogen för komponentegenskaper."
-
-#: ../src/simulation.c:102 ../src/simulation.c:109 ../src/simulation.c:115
-#, fuzzy
-msgid "Could not create simulation dialog"
-msgstr "Kunde inte skapa dialogen för simulering."
-
-#: ../src/simulation.c:150
-#, fuzzy, c-format
-msgid "Progress: <b>%s</b>"
-msgstr "Förlopp:"
-
-#: ../src/simulation.c:201
-#, fuzzy
-msgid ""
-"<span weight=\"bold\" size=\"large\">The simulation was aborted due to an "
-"error.</span>\n"
-"\n"
-"Would you like to view the error log?"
-msgstr ""
-"<span weight=\"bold\" size=\"x-large\">Simuleringen avbröts pga ett fel.</"
-"span>\n"
-"Vill du visa loggen med felmeddelanden?"
-
-#: ../src/simulation.c:211
-#, fuzzy
-msgid "The simulation was aborted due to an error"
-msgstr ""
-"<span weight=\"bold\" size=\"x-large\">Simuleringen avbröts pga ett fel.</"
-"span>\n"
-
-#: ../src/sim-settings.c:229
-msgid "Add new option"
-msgstr ""
-
-#: ../src/sim-settings.c:777 ../src/sim-settings.c:784
-#: ../src/sim-settings.c:790
-#, fuzzy
-msgid "Could not create simulation settings dialog"
-msgstr "Kunde inte skapa dialogen för simulering."
-
-#: ../src/sim-settings.c:814
-msgid "Option"
-msgstr "Alternativ"
-
-#: ../src/sim-settings.c:816
-msgid "Value"
-msgstr "VÃ¤rde"
-
-#: ../src/settings.c:141 ../src/settings.c:148 ../src/settings.c:154
-#, fuzzy
-msgid "Could not create settings dialog"
-msgstr "Kunde inte skapa dialogen för simulering."
-
-#: ../src/settings.c:215
-msgid "Engine executable not found"
-msgstr ""
-
-#: ../src/settings.c:216
-msgid "The engine is unable to locate the external program."
-msgstr ""
-
-#: ../src/schematic-view.c:254
-#, fuzzy
-msgid "Could not create properties dialog"
-msgstr "Kunde inte skapa dialogen för komponentegenskaper."
-
-#: ../src/schematic-view.c:320
-#, fuzzy
-msgid "Could not create the page properties dialog"
-msgstr "Kunde inte skapa dialogen för komponentegenskaper."
-
-#: ../src/schematic-view.c:383
-msgid "Could not load file"
-msgstr ""
-
-#: ../src/schematic-view.c:410 ../src/schematic-view.c:1304
-#: ../src/schematic-view.c:1312
-msgid "Untitled.oregano"
-msgstr "Namnlös.oregano"
-
-#: ../src/schematic-view.c:415
-#, fuzzy
-msgid "Could not save schematic file"
-msgstr "Kunde inte skapa dialogen för simulering."
-
-#: ../src/schematic-view.c:765 ../src/netlist-editor.c:225
-#: ../src/netlist-editor.c:436
-#, fuzzy
-msgid "Could not create a netlist"
-msgstr "Kunde inte skapa komponentvÃ¤ljaren."
-
-#: ../src/schematic-view.c:768 ../src/netlist-editor.c:229
-#: ../src/netlist-editor.c:439
-msgid "An unexpected error has occurred"
-msgstr ""
-
-#: ../src/schematic-view.c:1313
-msgid "Untitled.netlist"
-msgstr "Namnlös.netlist"
-
-#: ../src/schematic-view.c:1504
-#, c-format
-msgid ""
-"<span weight=\"bold\" size=\"large\">Save changes to schematic %s before "
-"closing?</span>\n"
-"\n"
-"If you don't save, all changes since you last saved will be permanently lost."
-msgstr ""
-
-#: ../src/schematic-view.c:1516
-msgid "Close _without Saving"
-msgstr ""
-
-#: ../src/schematic-view.c:2434 ../src/schematic-view.c:2445
-#, fuzzy
-msgid "Could not create the log window"
-msgstr "Kunde inte skapa diagramfönster."
-
-#: ../src/schematic-view-ui.h:38
-msgid "_New"
-msgstr "_Nytt"
-
-#: ../src/schematic-view-ui.h:38 ../src/schematic-view-ui.h:264
-msgid "Create a new schematic"
-msgstr "Skapa nytt schema"
-
-#: ../src/schematic-view-ui.h:47
-#, fuzzy
-msgid "Page Properties"
-msgstr "Komponentegenskaper"
-
-#: ../src/schematic-view-ui.h:48
-msgid "Set print properties"
-msgstr "Sätt utskriftsegenskaper"
-
-#: ../src/schematic-view-ui.h:56 ../src/print.c:367 ../src/plot.c:150
-#: ../src/netlist-editor.c:193
-msgid "Print Preview"
-msgstr "Förhandsgranskning"
-
-#: ../src/schematic-view-ui.h:57
-msgid "Preview the schematic before printing"
-msgstr "Granska schemat innan utskrift"
-
-#: ../src/schematic-view-ui.h:65
-msgid "Schematic _Properties..."
-msgstr "Schemats _egenskaper..."
-
-#: ../src/schematic-view-ui.h:66
-msgid "Modify the schematic's properties"
-msgstr "Ändra schemats egenskaper"
-
-#: ../src/schematic-view-ui.h:95
-msgid "_Delete"
-msgstr "_Ta bort"
-
-#: ../src/schematic-view-ui.h:96
-msgid "Delete the selection"
-msgstr "Ta bort de markerade objekten"
-
-#: ../src/schematic-view-ui.h:102
-msgid "_Rotate"
-msgstr "_Rotera"
-
-#: ../src/schematic-view-ui.h:103
-msgid "Rotate the selection clockwise"
-msgstr "Rotera markeringen medsols"
-
-#: ../src/schematic-view-ui.h:109
-#, fuzzy
-msgid "Flip _horizontally"
-msgstr "Centrera horisontellt"
-
-#: ../src/schematic-view-ui.h:110
-#, fuzzy
-msgid "Flip the selection horizontally"
-msgstr "Kopiera markeringen till urklipp"
-
-#: ../src/schematic-view-ui.h:116
-#, fuzzy
-msgid "Flip _vertically"
-msgstr "Centrera vertikalt"
-
-#: ../src/schematic-view-ui.h:117
-#, fuzzy
-msgid "Flip the selection vertically"
-msgstr "Ta bort de markerade objekten"
-
-#: ../src/schematic-view-ui.h:124
-#, fuzzy
-msgid "Select _all"
-msgstr "A_vmarkera"
-
-#: ../src/schematic-view-ui.h:125
-msgid "Select all objects on the sheet"
-msgstr "Markera alla objekt på schemat"
-
-#: ../src/schematic-view-ui.h:131
-#, fuzzy
-msgid "Deselect a_ll"
-msgstr "A_vmarkera"
-
-#: ../src/schematic-view-ui.h:132
-msgid "Deselect the selected objects"
-msgstr "Avmarkera alla objekt"
-
-#: ../src/schematic-view-ui.h:140
-#, fuzzy
-msgid "_Object Properties..."
-msgstr "Objekt_egenskaper..."
-
-#: ../src/schematic-view-ui.h:141
-msgid "Modify the object's properties"
-msgstr "Ändra objektets egenskaper"
-
-#: ../src/schematic-view-ui.h:146
-msgid "Simulation S_ettings..."
-msgstr "Simulerings_inställningar..."
-
-#: ../src/schematic-view-ui.h:147
-msgid "Edit the simulation settings"
-msgstr "Ändra simuleringsinställningarna"
-
-#: ../src/schematic-view-ui.h:162
-msgid "Run a simulation"
-msgstr "_Kör en simulering"
-
-#: ../src/schematic-view-ui.h:169
-msgid "_Generate netlist"
-msgstr "_Generera nätlista"
-
-#: ../src/schematic-view-ui.h:170
-msgid "Generate a netlist"
-msgstr "Generera en nätlista"
-
-#: ../src/schematic-view-ui.h:177
-msgid "50%"
-msgstr "50%"
-
-#: ../src/schematic-view-ui.h:178
-msgid "Set the zoom factor to 50%"
-msgstr "Sätt zoomfaktorn till 50%"
-
-#: ../src/schematic-view-ui.h:179
-msgid "75%"
-msgstr "75%"
-
-#: ../src/schematic-view-ui.h:180
-msgid "Set the zoom factor to 75%"
-msgstr "Sätt zoomfaktorn till 75%"
-
-#. GNOMEUIINFO_ITEM_NONE(N_("50%"),
-#. N_("Set the zoom factor to 50%"), plot_zoom_50_cmd),
-#. GNOMEUIINFO_ITEM_NONE(N_("75%"),
-#. N_("Set the zoom factor to 75%"), plot_zoom_75_cmd),
-#: ../src/schematic-view-ui.h:181 ../src/plot.c:167
-msgid "100%"
-msgstr "100%"
-
-#: ../src/schematic-view-ui.h:182 ../src/plot.c:168
-msgid "Set the zoom factor to 100%"
-msgstr "Sätt zoomfaktorn till 100%"
-
-#: ../src/schematic-view-ui.h:184
-msgid "125%"
-msgstr "125%"
-
-#: ../src/schematic-view-ui.h:185
-msgid "Set the zoom factor to 125%"
-msgstr "Sätt zoomfaktorn till 125%"
-
-#: ../src/schematic-view-ui.h:186
-msgid "150%"
-msgstr "150%"
-
-#: ../src/schematic-view-ui.h:187
-msgid "Set the zoom factor to 150%"
-msgstr "Sätt zoomfaktorn till 150%"
-
-#: ../src/schematic-view-ui.h:196
-msgid "Zoom"
-msgstr "Zoom"
-
-#: ../src/schematic-view-ui.h:202
-msgid "_Log"
-msgstr "_Logg"
-
-#: ../src/schematic-view-ui.h:202
-msgid "View the latest simulation log"
-msgstr "Visa senaste simuleringsloggen"
-
-#: ../src/schematic-view-ui.h:205
-#, fuzzy
-msgid "_Node labels"
-msgstr "_Visa nodetiketter"
-
-#: ../src/schematic-view-ui.h:205
-msgid "Show or hide node labels"
-msgstr "Visa eller göm nodetiketter"
-
-#: ../src/schematic-view-ui.h:207
-#, fuzzy
-msgid "N_etlist"
-msgstr "Nätlistfil"
-
-#: ../src/schematic-view-ui.h:208
-#, fuzzy
-msgid "View the circuit netlist"
-msgstr "Titta på en nätlista"
-
-#: ../src/schematic-view-ui.h:240
-msgid "_Contents"
-msgstr "_Innehåll"
-
-#: ../src/schematic-view-ui.h:240
-msgid "Show program help"
-msgstr "Visa programhjälp"
-
-#: ../src/schematic-view-ui.h:254
-msgid "_Tools"
-msgstr "_Verktyg"
-
-#: ../src/schematic-view-ui.h:264
-msgid "New"
-msgstr "Nytt"
-
-#: ../src/schematic-view-ui.h:267
-msgid "Open"
-msgstr "Öppna"
-
-#: ../src/schematic-view-ui.h:267
-msgid "Open an existing schematic"
-msgstr "Öppna ett existerande schema"
-
-#: ../src/schematic-view-ui.h:270
-msgid "Save"
-msgstr "Spara"
-
-#: ../src/schematic-view-ui.h:270
-msgid "Save the schematic"
-msgstr "Spara schemat"
-
-#: ../src/schematic-view-ui.h:285
-msgid "Cut the selection to the clipboard"
-msgstr "Klipp ut markeringen till urklipp"
-
-#: ../src/schematic-view-ui.h:288
-msgid "Copy the selection to the clipboard"
-msgstr "Kopiera markeringen till urklipp"
-
-#: ../src/schematic-view-ui.h:291 ../src/schematic-view-ui.h:404
-msgid "Paste"
-msgstr "Klistra in"
-
-#: ../src/schematic-view-ui.h:291
-#, fuzzy
-msgid "Paste the clipboard"
-msgstr "Klistra in från urklipp"
-
-#: ../src/schematic-view-ui.h:301
-msgid "Arrow"
-msgstr "Pekare"
-
-#: ../src/schematic-view-ui.h:302
-msgid "Select, move and modify objects"
-msgstr "Markera, flytta och påverka objekt"
-
-#: ../src/schematic-view-ui.h:307
-msgid "Text"
-msgstr "Text"
-
-#: ../src/schematic-view-ui.h:308
-msgid "Put text on the schematic"
-msgstr "Placera ut text på schemat"
-
-#: ../src/schematic-view-ui.h:313
-msgid "Wires"
-msgstr "Ledningar"
-
-#: ../src/schematic-view-ui.h:314
-msgid "Draw wires"
-msgstr "Rita ledningar"
-
-#: ../src/schematic-view-ui.h:330
-msgid "Add Voltage Clamp"
-msgstr "Lägg till en spänningsmätpunkt"
-
-#: ../src/schematic-view-ui.h:331
-msgid "Add a Voltage test clamp"
-msgstr "Lägg till en spänningsmätpunkt"
-
-#: ../src/schematic-view-ui.h:336
-msgid "Simulate"
-msgstr "Simulera"
-
-#: ../src/schematic-view-ui.h:337
-msgid "Run a simulation for the current schematic"
-msgstr "Kör en simulering för det aktuella schemat"
-
-#: ../src/schematic-view-ui.h:342 ../src/schematic-view-ui.h:343
-msgid "Simulation settings"
-msgstr "Simuleringsinställningar"
-
-#: ../src/schematic-view-ui.h:361
-msgid "Show or hide the part browser"
-msgstr "Visa eller göm komponentväljaren"
-
-#: ../src/schematic-view-ui.h:366
-msgid "Grid"
-msgstr "Rutnät"
-
-#: ../src/schematic-view-ui.h:367
-msgid "Turn on/off the grid"
-msgstr "Stäng av/sätt på rutnätet"
-
-#: ../src/schematic-view-ui.h:372 ../src/schematic-view-ui.h:373
-msgid "Zoom in"
-msgstr "Zooma in"
-
-#: ../src/schematic-view-ui.h:378 ../src/schematic-view-ui.h:379
-msgid "Zoom out"
-msgstr "Zooma ut"
-
-#: ../src/schematic-view-ui.h:405
-msgid "Paste the contents of the clipboard to the sheet"
-msgstr "Klistra in innehållet i urklipp på bladet"
-
-#: ../src/print.c:297
-msgid "Print"
-msgstr "Utskrift"
-
-#: ../src/print.c:304
-msgid "Pages"
-msgstr "Sidor"
-
-#: ../src/print.c:339
-#, fuzzy
-msgid "Can't get paper info! .. getting default!"
-msgstr "Kan ej få pappersinformation .. tar standardvärden!"
-
-#: ../src/print.c:353
-msgid "Could not create font for printing."
-msgstr "Kunde inte skapa typsnitt för utskrift."
-
-#: ../src/print.c:372
-msgid "Printing failed."
-msgstr "Utskrift misslyckades."
-
-#: ../src/plot.c:61 ../src/plot.c:62
-msgid "Sans 10"
-msgstr "Sans 10"
-
-#: ../src/plot.c:63
-msgid "Sans 8"
-msgstr "Sans 8"
-
-#: ../src/plot.c:151
-msgid "Preview the plot before printing"
-msgstr "Granska diagrammet före utskrift"
-
-#: ../src/plot.c:153
-msgid "Export plot"
-msgstr "Exportera diagram"
-
-#: ../src/plot.c:154
-msgid "Show the export menu"
-msgstr ""
-
-#: ../src/plot.c:155
-#, fuzzy
-msgid "Add Function"
-msgstr "Överföringsfunktion"
-
-#: ../src/plot.c:156
-msgid "Add new function to the graph"
-msgstr ""
-
-#: ../src/plot.c:180
-msgid "_Preferences..."
-msgstr "_Inställningar..."
-
-#: ../src/plot.c:182
-msgid "Show crosshairs"
-msgstr "Visa hårkors"
-
-#: ../src/plot.c:183
-msgid "_Zoom"
-msgstr "_Zoom"
-
-#: ../src/plot.c:190
-msgid "Schematic Plot"
+msgid "Schematic file"
 msgstr "Schemautskrift"
 
-#: ../src/plot.c:196
-msgid "_File"
-msgstr "_Arkiv"
-
-#: ../src/plot.c:197
-msgid "_Plot"
-msgstr "_Diagram"
-
-#. Simulation failed?
-#: ../src/plot.c:330
-msgid "The simulation produced no data!!\n"
-msgstr ""
-
-#: ../src/plot.c:340 ../src/plot.c:574
-#, c-format
-msgid "Plot - %s"
-msgstr "Diagram - %s"
-
-#: ../src/plot.c:349
-#, fuzzy
-msgid "Nodes"
-msgstr "Modell"
-
-#: ../src/plot.c:352 ../src/plot.c:636
-#, fuzzy
-msgid "Functions"
-msgstr "Överföringsfunktion"
-
-#: ../src/plot.c:424
-#, fuzzy
-msgid "Oregano - Plot"
-msgstr "Oregano - Diagram"
-
-#: ../src/plot.c:436 ../src/plot.c:443
-msgid "Could not create plot window."
-msgstr "Kunde inte skapa diagramfönster."
-
-#: ../src/plot.c:659
-msgid "TRANSFER"
-msgstr ""
-
-#: ../src/plot.c:691 ../src/plot.c:698
-msgid "Could not create plot export window."
-msgstr "Kunde inte skapa diagramexportfönster."
-
-#. if (gtk_toggle_button_get_active (GTK_TOGGLE_BUTTON (export_png)))
-#. format = GTK_CAIRO_PLOT_VIEW_SAVE_PNG;
-#. else
-#. format = GTK_CAIRO_PLOT_VIEW_SAVE_PS;
-#: ../src/plot.c:719
-msgid "Save PNG"
-msgstr "Spara PNG"
-
-#: ../src/part-browser.c:135 ../src/part-browser.c:614
-msgid ""
-"Gtk version 2.2 does not support GtkTreeModelFilter...\n"
-"Filtering disable!"
-msgstr ""
-"Gtk version 2.2 stöder ej GtkTreeModelFilter...\n"
-"Filtrering urkopplad!"
-
-#: ../src/part-browser.c:187 ../src/part-browser.c:401
+#: ../src/part-browser.c:182 ../src/part-browser.c:374
 msgid "Unable to load required part"
 msgstr ""
 
-#: ../src/part-browser.c:499 ../src/part-browser.c:507
+#: ../src/part-browser.c:441 ../src/part-browser.c:454
 #, fuzzy
 msgid "Could not create part browser"
 msgstr "Kunde inte skapa komponentvÃ¤ljaren."
 
-#: ../src/oregano-config.c:123
+#: ../src/simulation.c:108 ../src/simulation.c:121 ../src/simulation.c:129
+#: ../src/simulation.c:210 ../src/simulation.c:213 ../src/simulation.c:240
+#: ../src/simulation.c:264
+msgid "Simulation"
+msgstr "Simulering"
+
+#: ../src/simulation.c:109
+#, fuzzy
+msgid "Could not create simulation dialog - Builder creation failed."
+msgstr "Kunde inte skapa dialogen för simulering."
+
+#: ../src/simulation.c:121
+#, fuzzy
+msgid "Could not create simulation dialog"
+msgstr "Kunde inte skapa dialogen för simulering."
+
+#: ../src/simulation.c:130
+#, fuzzy
+msgid ""
+"Could not create simulation dialog - .ui file lacks widget called \"toplevel"
+"\"."
+msgstr "Kunde inte skapa dialogen för simulering."
+
+#: ../src/simulation.c:174 ../src/simulation.c:185
+#, fuzzy, c-format
+msgid "Progress: <b>%s</b>"
+msgstr "Förlopp:"
+
+#: ../src/simulation.c:211
+msgid "Finished with warnings:"
+msgstr ""
+
+#: ../src/simulation.c:213
+msgid "Finished."
+msgstr ""
+
+#: ../src/simulation.c:240
+msgid "Aborted. See lines below for details."
+msgstr ""
+
+#: ../src/simulation.c:264
+msgid "Canceled."
+msgstr ""
+
+#: ../src/dialogs.c:235
+msgid ""
+"(c) 2017-2018 Guido Trentalancia\n"
+"(c) 2012-2017 Bernhard Schuster\n"
+"(c) 2009-2012 Marc Lorber\n"
+"(c) 2003-2006 LUGFi\n"
+"(c) 1999-2001 Richard Hult"
+msgstr ""
+
+#: ../src/dialogs.c:247
+msgid "Schematic capture and circuit simulation.\n"
+msgstr "Kretsschemadesign och simulering.\n"
+
+#: ../src/model/part.c:209
+#, fuzzy, c-format
+msgid "Couldn't find the requested symbol%s for part %s in library.\n"
+msgstr "Kunde inte hitta den efterfrÃ¥gade symbolen: %s\n"
+
+#: ../src/model/schematic.c:579
+#, c-format
+msgid "File %s does not exist."
+msgstr ""
+
+#: ../src/model/schematic.c:587 ../src/model/schematic.c:616
+#, c-format
+msgid "Unknown file format for %s."
+msgstr ""
+
+#: ../src/model/schematic.c:976 ../src/model/schematic.c:981
+msgid "Error loading print-options.ui"
+msgstr ""
+
+#: ../src/model/schematic.c:1048
+#, fuzzy
+msgid "Schematic"
+msgstr "Schemautskrift"
+
+#: ../src/file.c:51 ../src/file.c:91
+msgid "Oregano Files"
+msgstr "Oreganofiler"
+
+#: ../src/file.c:53 ../src/file.c:93
+msgid "All Files"
+msgstr "Alla filer"
+
+#: ../src/file.c:56
+msgid "Open File"
+msgstr "Öppna fil"
+
+#: ../src/file.c:59 ../src/file.c:99 ../src/file.c:146 ../src/file.c:177
+#: ../src/schematic-view.c:245
+msgid "_Cancel"
+msgstr ""
+
+#: ../src/file.c:61 ../src/schematic-view-menu.h:52 ../src/schematic-view.c:247
+#, fuzzy
+msgid "_Open"
+msgstr "Öppna"
+
+#: ../src/file.c:96
+msgid "Save File"
+msgstr "Spara fil"
+
+#: ../src/file.c:101 ../src/file.c:148 ../src/file.c:179
+#: ../src/schematic-view-menu.h:55
+#, fuzzy
+msgid "_Save"
+msgstr "Spara"
+
+#: ../src/file.c:143
+msgid "Netlist File"
+msgstr "Nätlistfil"
+
+#: ../src/netlist-editor.c:139
+#, c-format
+msgid "The file %s could not be saved"
+msgstr ""
+
+#: ../src/netlist-editor.c:140
+#, fuzzy
+msgid "Could not save temporary netlist file"
+msgstr "Kunde inte skapa dialogen för komponentegenskaper."
+
+#: ../src/netlist-editor.c:201 ../src/netlist-editor.c:211
+#, fuzzy
+msgid "Could not create the netlist dialog"
+msgstr "Kunde inte skapa dialogen för komponentegenskaper."
+
+#. gettext support
+#: ../src/netlist-editor.c:280
+#, c-format
+msgid "The file %s could not be found."
+msgstr ""
+
+#: ../src/netlist-editor.c:281
+#, fuzzy
+msgid "Could not find the required file"
+msgstr ""
+"Hittade inte begärd fil:\n"
+"%s"
+
+#: ../src/netlist-editor.c:322
+#, fuzzy
+msgid "Could not create a netlist"
+msgstr "Kunde inte skapa komponentvÃ¤ljaren."
+
+#: ../src/netlist-editor.c:325
+msgid "Unexpected error occured"
+msgstr ""
+
+#. Name, ICON, Text, CTRL, DESC, CALLBACK
+#: ../src/schematic-view-menu.h:44
+msgid "_File"
+msgstr "_Arkiv"
+
+#: ../src/schematic-view-menu.h:45
+#, fuzzy
+msgid "_Edit"
+msgstr "Redigera..."
+
+#: ../src/schematic-view-menu.h:46
+msgid "_Tools"
+msgstr "_Verktyg"
+
+#: ../src/schematic-view-menu.h:47
+msgid "_View"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:48
+msgid "_Help"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:49
+msgid "_Zoom"
+msgstr "_Zoom"
+
+#: ../src/schematic-view-menu.h:50
+msgid "_New"
+msgstr "_Nytt"
+
+#: ../src/schematic-view-menu.h:50
+msgid "Create a new schematic"
+msgstr "Skapa nytt schema"
+
+#: ../src/schematic-view-menu.h:52
+#, fuzzy
+msgid "Open a schematic"
+msgstr "Öppna ett existerande schema"
+
+#: ../src/schematic-view-menu.h:54
+#, fuzzy
+msgid "_Recent Files"
+msgstr "Öppna fil"
+
+#: ../src/schematic-view-menu.h:55
+#, fuzzy
+msgid "Save a schematic"
+msgstr "Spara schemat"
+
+#: ../src/schematic-view-menu.h:57
+msgid "Save _As..."
+msgstr ""
+
+#: ../src/schematic-view-menu.h:58
+#, fuzzy
+msgid "Save a schematic with other name"
+msgstr "Spara schemat som"
+
+#: ../src/schematic-view-menu.h:59
+msgid "Print Properties"
+msgstr "Utskriftsegenskaper"
+
+#: ../src/schematic-view-menu.h:59
+msgid "Set print properties"
+msgstr "Sätt utskriftsegenskaper"
+
+#: ../src/schematic-view-menu.h:61
+#, fuzzy
+msgid "_Print"
+msgstr "Utskrift"
+
+#: ../src/schematic-view-menu.h:61
+#, fuzzy
+msgid "Print schematic"
+msgstr "Spara schemat"
+
+#: ../src/schematic-view-menu.h:62
+msgid "Print Preview"
+msgstr "Förhandsgranskning"
+
+#: ../src/schematic-view-menu.h:63
+msgid "Preview the schematic before printing"
+msgstr "Granska schemat innan utskrift"
+
+#: ../src/schematic-view-menu.h:64
+#, fuzzy
+msgid "Schematic Pr_operties..."
+msgstr "Schemats _egenskaper..."
+
+#: ../src/schematic-view-menu.h:65
+msgid "Modify the schematic's properties"
+msgstr "Ändra schemats egenskaper"
+
+#: ../src/schematic-view-menu.h:66
+msgid "_Export..."
+msgstr ""
+
+#: ../src/schematic-view-menu.h:66
+#, fuzzy
+msgid "Export schematic"
+msgstr "Spara schemat"
+
+#: ../src/schematic-view-menu.h:67
+msgid "_Close"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:67
+#, fuzzy
+msgid "Close the current schematic"
+msgstr "Kör en simulering för det aktuella schemat"
+
+#: ../src/schematic-view-menu.h:69
+msgid "_Quit"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:69
+#, fuzzy
+msgid "Close all schematics"
+msgstr "Skapa nytt schema"
+
+#: ../src/schematic-view-menu.h:71 ../src/sheet/sheet-item.c:108
+msgid "C_ut"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:72 ../src/sheet/sheet-item.c:107
+#, fuzzy
+msgid "_Copy"
+msgstr "Kopiera"
+
+#: ../src/schematic-view-menu.h:73
+#, fuzzy
+msgid "_Paste"
+msgstr "Klistra in"
+
+#: ../src/schematic-view-menu.h:74 ../src/sheet/sheet-item.c:109
+msgid "_Delete"
+msgstr "_Ta bort"
+
+#: ../src/schematic-view-menu.h:74 ../src/sheet/sheet-item.c:109
+msgid "Delete the selection"
+msgstr "Ta bort de markerade objekten"
+
+#: ../src/schematic-view-menu.h:76 ../src/sheet/sheet-item.c:110
+msgid "_Rotate"
+msgstr "_Rotera"
+
+#: ../src/schematic-view-menu.h:77 ../src/sheet/sheet-item.c:111
+msgid "Rotate the selection clockwise"
+msgstr "Rotera markeringen medsols"
+
+#: ../src/schematic-view-menu.h:78 ../src/sheet/sheet-item.c:112
+#, fuzzy
+msgid "Flip _horizontally"
+msgstr "Centrera horisontellt"
+
+#: ../src/schematic-view-menu.h:78 ../src/sheet/sheet-item.c:112
+#, fuzzy
+msgid "Flip the selection horizontally"
+msgstr "Kopiera markeringen till urklipp"
+
+#: ../src/schematic-view-menu.h:80 ../src/sheet/sheet-item.c:114
+#, fuzzy
+msgid "Flip _vertically"
+msgstr "Centrera vertikalt"
+
+#: ../src/schematic-view-menu.h:81 ../src/sheet/sheet-item.c:115
+#, fuzzy
+msgid "Flip the selection vertically"
+msgstr "Ta bort de markerade objekten"
+
+#: ../src/schematic-view-menu.h:82
+#, fuzzy
+msgid "Select _all"
+msgstr "A_vmarkera"
+
+#: ../src/schematic-view-menu.h:82
+msgid "Select all objects on the sheet"
+msgstr "Markera alla objekt på schemat"
+
+#: ../src/schematic-view-menu.h:84
+#, fuzzy
+msgid "Select _none"
+msgstr "A_vmarkera"
+
+#: ../src/schematic-view-menu.h:85
+msgid "Deselect the selected objects"
+msgstr "Avmarkera alla objekt"
+
+#: ../src/schematic-view-menu.h:86 ../src/sheet/part-item.c:138
+#, fuzzy
+msgid "_Object Properties..."
+msgstr "Objekt_egenskaper..."
+
+#: ../src/schematic-view-menu.h:87
+msgid "Modify the object's properties"
+msgstr "Ändra objektets egenskaper"
+
+#: ../src/schematic-view-menu.h:88
+msgid "Simulation S_ettings..."
+msgstr "Simulerings_inställningar..."
+
+#: ../src/schematic-view-menu.h:89
+msgid "Edit the simulation settings"
+msgstr "Ändra simuleringsinställningarna"
+
+#: ../src/schematic-view-menu.h:90
+#, fuzzy
+msgid "_Preferences"
+msgstr "Preferenser"
+
+#: ../src/schematic-view-menu.h:90
+#, fuzzy
+msgid "Edit Oregano settings"
+msgstr "Ändra simuleringsinställningarna"
+
+#: ../src/schematic-view-menu.h:92
+msgid "_Simulate"
+msgstr "_Simulera"
+
+#: ../src/schematic-view-menu.h:92
+msgid "Run a simulation"
+msgstr "_Kör en simulering"
+
+#: ../src/schematic-view-menu.h:94
+msgid "_Generate netlist"
+msgstr "_Generera nätlista"
+
+#: ../src/schematic-view-menu.h:94
+msgid "Generate a netlist"
+msgstr "Generera en nätlista"
+
+#: ../src/schematic-view-menu.h:96
+#, fuzzy
+msgid "Smart Search"
+msgstr "Sök:"
+
+#: ../src/schematic-view-menu.h:96
+msgid "Search a part within all the librarys"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:98
+msgid "_Log"
+msgstr "_Logg"
+
+#: ../src/schematic-view-menu.h:98
+msgid "View the latest simulation log"
+msgstr "Visa senaste simuleringsloggen"
+
+#: ../src/schematic-view-menu.h:99
+#, fuzzy
+msgid "N_etlist"
+msgstr "Nätlistfil"
+
+#: ../src/schematic-view-menu.h:99
+#, fuzzy
+msgid "View the circuit netlist"
+msgstr "Titta på en nätlista"
+
+#: ../src/schematic-view-menu.h:101
+msgid "_About"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:101
+#, fuzzy
+msgid "About Oregano"
+msgstr "Oregano"
+
+#: ../src/schematic-view-menu.h:102
+msgid "User's Manual"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:102
+msgid "Oregano User's Manual"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:104
+#, fuzzy
+msgid "Zoom _In"
+msgstr "Zooma in"
+
+#: ../src/schematic-view-menu.h:104
+msgid "Zoom in"
+msgstr "Zooma in"
+
+#: ../src/schematic-view-menu.h:105
+#, fuzzy
+msgid "Zoom _Out"
+msgstr "Zooma ut"
+
+#: ../src/schematic-view-menu.h:105
+msgid "Zoom out"
+msgstr "Zooma ut"
+
+#: ../src/schematic-view-menu.h:107
+msgid "Stretch to the left"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:109
+msgid "Stretch to the right"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:111
+msgid "Stretch the top"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:113
+msgid "Stretch the bottom"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:118
+#, fuzzy
+msgid "_Node labels"
+msgstr "_Visa nodetiketter"
+
+#: ../src/schematic-view-menu.h:118
+msgid "Toggle node label visibility"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:120
+#, fuzzy
+msgid "_Parts"
+msgstr "Komponenter"
+
+#: ../src/schematic-view-menu.h:120
+msgid "Toggle part browser visibility"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:122
+#, fuzzy
+msgid "_Grid"
+msgstr "Rutnät"
+
+#: ../src/schematic-view-menu.h:122
+msgid "Toggle grid visibility"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:124
+msgid "LogView"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:124
+msgid "Toggle log view visibility"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:129
+#, fuzzy
+msgid "Set the zoom to 50%"
+msgstr "Sätt zoomfaktorn till 50%"
+
+#: ../src/schematic-view-menu.h:130
+#, fuzzy
+msgid "Set the zoom to 75%"
+msgstr "Sätt zoomfaktorn till 75%"
+
+#: ../src/schematic-view-menu.h:131
+#, fuzzy
+msgid "Set the zoom to 100%"
+msgstr "Sätt zoomfaktorn till 100%"
+
+#: ../src/schematic-view-menu.h:132
+#, fuzzy
+msgid "Set the zoom to 125%"
+msgstr "Sätt zoomfaktorn till 125%"
+
+#: ../src/schematic-view-menu.h:133
+#, fuzzy
+msgid "Set the zoom to 150%"
+msgstr "Sätt zoomfaktorn till 150%"
+
+#: ../src/schematic-view-menu.h:137
+msgid "Arrow"
+msgstr "Pekare"
+
+#: ../src/schematic-view-menu.h:137
+msgid "Select, move and modify objects"
+msgstr "Markera, flytta och påverka objekt"
+
+#: ../src/schematic-view-menu.h:138
+msgid "Text"
+msgstr "Text"
+
+#: ../src/schematic-view-menu.h:138
+msgid "Put text on the schematic"
+msgstr "Placera ut text på schemat"
+
+#: ../src/schematic-view-menu.h:139
+#, fuzzy
+msgid "Wire"
+msgstr "Ledningar"
+
+#: ../src/schematic-view-menu.h:139
+msgid "Draw wires"
+msgstr "Rita ledningar"
+
+#: ../src/schematic-view-menu.h:140
+msgid "Clamp"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:140
+#, fuzzy
+msgid "Add voltage clamp"
+msgstr "Lägg till en spänningsmätpunkt"
+
+#: ../src/load-library.c:153
+#, c-format
+msgid "Could not find the requested symbol: %s\n"
+msgstr "Kunde inte hitta den efterfrÃ¥gade symbolen: %s\n"
+
+#: ../src/load-library.c:168
+#, c-format
+msgid "Could not find the requested part: %s\n"
+msgstr "Kunde inte hitta komponenten: %s\n"
+
+#: ../src/load-schematic.c:280
+#, c-format
+msgid "Bad file format."
+msgstr ""
+
+#: ../src/load-schematic.c:288
+#, c-format
+msgid "Unknown parser error."
+msgstr ""
+
+#: ../src/splash.c:56
+msgid "Failed to spawn builder"
+msgstr ""
+
+#: ../src/oregano-config.c:105
 #, c-format
 msgid "Loading %s ..."
 msgstr "Laddar %s ..."
 
-#: ../src/oregano-config.c:164
+#: ../src/oregano-config.c:141
 #, fuzzy, c-format
 msgid "Could not read the parts library: %s "
 msgstr "Kunde inte skapa komponentvÃ¤ljaren."
 
-#: ../src/oregano-config.c:166
-#, fuzzy
+#: ../src/oregano-config.c:142
+#, fuzzy, c-format
 msgid ""
-"The file is probably corrupt. Please reinstall the parts\n"
-"library or Oregano and try again."
+"The file is probably corrupt. Please reinstall the parts library or Oregano "
+"and try again."
 msgstr ""
-"<span weight=\"bold\" size=\"x-large\">Kunde inte läsa komponentbiblioteket:%"
-"s</span>\n"
+"<span weight=\"bold\" size=\"x-large\">Kunde inte läsa komponentbiblioteket:"
+"%s</span>\n"
 "\n"
 "Filen är troligen korrupt. Var vänlig installera\n"
 "om komponentbiblioteket eller Oregano och försök\n"
 "igen."
 
-#: ../src/engines/netlist.c:436
-msgid "No ground node. Aborting.\n"
-msgstr ""
+#: ../src/sheet/plot-add-function.c:55 ../src/sheet/plot-add-function.c:61
+#: ../src/plot.c:363 ../src/plot.c:370
+msgid "Could not create plot window."
+msgstr "Kunde inte skapa diagramfönster."
 
-#: ../src/engines/netlist.c:441
+#: ../src/sheet/plot-add-function.c:109
 msgid ""
-"Possibly due to a faulty circuit schematic. Please check that\n"
-"you have a ground node and try again."
+"<span weight=\"bold\" size=\"large\">Neither function, nor operators have "
+"been chosen</span>\n"
+"\n"
+"Please, take care to choose a function and their associated operators"
 msgstr ""
 
-#: ../src/engines/netlist.c:450
-msgid "No test clamps found. Aborting.\n"
+#: ../src/sheet/textbox-item.c:84
+#, fuzzy
+msgid "_Edit the text..."
+msgstr "Redigera texten"
+
+#: ../src/sheet/textbox-item.c:84
+msgid "Edit the text"
+msgstr "Redigera texten"
+
+#: ../src/sheet/textbox-item.c:410
+msgid "Label"
+msgstr "Etikett"
+
+#: ../src/sheet/textbox-item.c:476
+#, fuzzy
+msgid "Could not create textbox properties dialog"
+msgstr "Kunde inte skapa dialogen för komponentegenskaper."
+
+#: ../src/sheet/textbox-item.c:485
+#, fuzzy
+msgid "Could not create textbox properties dialog."
+msgstr "Kunde inte skapa dialogen för komponentegenskaper."
+
+#: ../src/sheet/sheet-item.c:235
+msgid "Cannot set SheetItem after creation."
 msgstr ""
 
-#: ../src/engines/netlist.c:455
+#: ../src/sheet/part-item.c:139
+#, fuzzy
+msgid "Modify object properties"
+msgstr "Ändra objektets egenskaper"
+
+#: ../src/sheet/part-item.c:434 ../src/sheet/part-item.c:440
+#: ../src/sheet/part-item.c:570 ../src/sheet/part-item.c:577
+msgid "Could not create part properties dialog."
+msgstr "Kunde inte skapa dialogen för komponentegenskaper."
+
+#: ../src/sheet/part-item.c:618
+msgid "Designation"
+msgstr ""
+
+#: ../src/sheet/part-item.c:620
+#, fuzzy
+msgid "Template"
+msgstr "Simulera"
+
+#: ../src/sheet/part-item.c:622
+msgid "Resistor"
+msgstr ""
+
+#: ../src/sheet/part-item.c:624
+msgid "Capacitor"
+msgstr ""
+
+#: ../src/sheet/part-item.c:626
+msgid "Inductor"
+msgstr ""
+
+#: ../src/sim-settings-gui.c:193
+msgid "Add new option"
+msgstr ""
+
+#: ../src/sim-settings-gui.c:579 ../src/sim-settings-gui.c:585
+#: ../src/sim-settings-gui.c:612 ../src/sim-settings-gui.c:618
+#: ../src/sim-settings-gui.c:679 ../src/sim-settings-gui.c:687
+#: ../src/sim-settings-gui.c:697
+#, fuzzy
+msgid "SimulationSettings"
+msgstr "Simuleringsinställningar"
+
+#: ../src/sim-settings-gui.c:580 ../src/sim-settings-gui.c:613
+#, fuzzy
+msgid "Failed to create netlist"
+msgstr "Kunde inte skapa komponentvÃ¤ljaren."
+
+#: ../src/sim-settings-gui.c:586 ../src/sim-settings-gui.c:619
+#, fuzzy
+msgid "No node in the schematic!"
+msgstr "Placera ut text på schemat"
+
+#: ../src/sim-settings-gui.c:680
+#, fuzzy
+msgid "Could not create simulation settings dialog"
+msgstr "Kunde inte skapa dialogen för simulering."
+
+#: ../src/sim-settings-gui.c:688
+#, fuzzy
+msgid "Could not create simulation settings dialog due to missing "
+msgstr "Kunde inte skapa dialogen för simulering."
+
+#: ../src/sim-settings-gui.c:698
+#, fuzzy
 msgid ""
-"Possibly due to a faulty circuit schematic. Please check that\n"
-"you have one o more test clamps and try again."
+"Could not create simulation settings dialog due to missing \"toplevel\" "
+"widget in "
+msgstr "Kunde inte skapa dialogen för simulering."
+
+#: ../src/sim-settings-gui.c:724
+msgid "Option"
+msgstr "Alternativ"
+
+#: ../src/sim-settings-gui.c:726
+msgid "Value"
+msgstr "VÃ¤rde"
+
+#: ../src/engines/netlist-helper.c:403
+#, c-format
+msgid "At least one GND is required. Add at least one and try again."
 msgstr ""
 
-#: ../src/engines/gnucap.c:299
+#: ../src/engines/netlist-helper.c:411
+#, c-format
+msgid "No test clamps found. Add at least one and try again."
+msgstr ""
+
+#: ../src/engines/netlist-helper.c:522
+#, fuzzy, c-format
+msgid "Could not find part in library, pin #%d."
+msgstr "Kunde inte skapa komponentvÃ¤ljaren."
+
+#: ../src/engines/gnucap.c:349 ../src/engines/ngspice-watcher.c:366
 #, fuzzy
 msgid "### Too few or none analysis found ###\n"
 msgstr ""
@@ -1028,246 +791,756 @@ msgstr ""
 "### För få eller ingen analys funnen ###\n"
 "\n"
 
-#: ../src/engines/gnucap.c:366
+#: ../src/engines/gnucap.c:410
 msgid "Unable to execute GnuCap."
 msgstr ""
 
-#: ../src/engines/gnucap.c:383
+#: ../src/engines/gnucap.c:425 ../src/engines/engine.c:40
 #, fuzzy
 msgid "None"
 msgstr "Modell"
 
-#: ../src/engines/gnucap.c:586
+#: ../src/engines/gnucap.c:619 ../src/plot.c:127
 msgid "time"
 msgstr ""
 
-#: ../src/engines/gnucap.c:591 ../src/engines/gnucap.c:601
+#: ../src/engines/gnucap.c:624 ../src/engines/gnucap.c:634
+#: ../src/engines/ngspice-analysis.c:162 ../src/engines/ngspice-analysis.c:164
+#: ../src/engines/ngspice-analysis.c:268 ../src/engines/ngspice-analysis.c:803
+#: ../src/plot.c:123
 #, fuzzy
 msgid "voltage"
 msgstr "Spänning"
 
-#: ../src/engines/gnucap.c:596
+#: ../src/engines/gnucap.c:629 ../src/engines/ngspice-analysis.c:266
+#: ../src/engines/ngspice-analysis.c:774 ../src/engines/ngspice-analysis.c:902
+#: ../src/plot.c:129
 #, fuzzy
 msgid "frequency"
 msgstr "Frekvens"
 
-#: ../src/engines/gnucap.c:645
+#: ../src/engines/gnucap.c:673
+#, fuzzy
+msgid "No analysis"
+msgstr "Brusanalys"
+
+#: ../src/engines/gnucap.c:676
 #, fuzzy
 msgid "Unknown analysis"
 msgstr "Okänd analys"
 
-#: ../src/engines/gnucap.c:693
-#, fuzzy
-msgid "abort"
-msgstr "Start"
-
-#: ../src/engines/engine.c:32
+#: ../src/engines/engine.c:41
 msgid "Operating Point"
 msgstr "StationÃ¤rtillstÃ¥nd"
 
-#: ../src/engines/engine.c:33
+#: ../src/engines/engine.c:42
 msgid "Transient Analysis"
 msgstr "Transientanalys"
 
-#: ../src/engines/engine.c:34
+#: ../src/engines/engine.c:43
 msgid "DC transfer characteristic"
 msgstr "DC-överföringskarakteristik"
 
-#: ../src/engines/engine.c:35
+#: ../src/engines/engine.c:44
 msgid "AC Analysis"
 msgstr "AC-analys"
 
-#: ../src/engines/engine.c:36
+#: ../src/engines/engine.c:45
 #, fuzzy
 msgid "Transfer Function"
 msgstr "Överföringsfunktion"
 
-#: ../src/engines/engine.c:37
+#: ../src/engines/engine.c:46
 msgid "Distortion Analysis"
 msgstr "Distortionsanalys"
 
-#: ../src/engines/engine.c:38
-msgid "Noise Analysis"
-msgstr "Brusanalys"
+#: ../src/engines/engine.c:47
+msgid "Noise Spectral Density Curves"
+msgstr ""
 
-#: ../src/engines/engine.c:39
+#: ../src/engines/engine.c:48
 msgid "Pole-Zero Analysis"
 msgstr "Nollpolsanalys"
 
-#: ../src/engines/engine.c:40
+#: ../src/engines/engine.c:49
 msgid "Sensitivity Analysis"
 msgstr "Känslighetsanalys"
 
-#: ../src/engines/engine.c:41
+#: ../src/engines/engine.c:50
+#, fuzzy
+msgid "Fourier analysis"
+msgstr "Brusanalys"
+
+#: ../src/engines/engine.c:51
 msgid "Unknown Analysis"
 msgstr "Okänd analys"
 
-#: ../src/netlist-editor.c:172
-#, c-format
-msgid "Netlist for %s"
-msgstr "Nätlista för %s"
-
-#: ../src/netlist-editor.c:173
-#, c-format
-msgid "Author : %s"
-msgstr "Författare : %s"
-
-#: ../src/netlist-editor.c:186
-msgid "Page %N of %Q"
-msgstr "Sida %N av %Q"
-
-#: ../src/netlist-editor.c:238 ../src/netlist-editor.c:274
-#, c-format
-msgid "The file %s could not be saved"
+#: ../src/engines/engine.c:56
+msgid "gnucap"
 msgstr ""
 
-#: ../src/netlist-editor.c:239 ../src/netlist-editor.c:275
+#: ../src/engines/engine.c:57
 #, fuzzy
-msgid "Could not save temporary netlist file"
-msgstr "Kunde inte skapa dialogen för komponentegenskaper."
+msgid "spice3"
+msgstr "NgSpice"
 
-#: ../src/netlist-editor.c:311
+#: ../src/engines/engine.c:58
 #, fuzzy
-msgid "Could not create the netlist dialog"
-msgstr "Kunde inte skapa dialogen för komponentegenskaper."
+msgid "ngspice"
+msgstr "NgSpice"
 
-#. gettext support
-#: ../src/netlist-editor.c:390
-#, c-format
-msgid "The file %s could not be found."
+#: ../src/engines/ngspice-watcher.c:553
+msgid "Unable to execute NgSpice."
 msgstr ""
 
-#: ../src/netlist-editor.c:391
+#. FIXME ask for swapping or cancel simulation
+#: ../src/engines/ngspice.c:236
+msgid "Transient: Start time is after Stop time - fix this.stop figure\n"
+msgstr ""
+
+#: ../src/engines/ngspice.c:416
+msgid "ngspice solving"
+msgstr ""
+
+#: ../src/engines/ngspice-analysis.c:904 ../src/engines/ngspice-analysis.c:906
+#: ../src/plot.c:133
+msgid "psd"
+msgstr ""
+
+#: ../src/schematic-view.c:184 ../src/schematic-view.c:191
+#: ../src/schematic-view.c:278 ../src/schematic-view.c:285
+#: ../src/schematic-view.c:406 ../src/schematic-view.c:428
+#: ../src/schematic-view.c:563 ../src/schematic-view.c:715
+#: ../src/schematic-view.c:718 ../src/schematic-view.c:870
+#: ../src/schematic-view.c:873 ../src/schematic-view.c:1198
+#: ../src/schematic-view.c:1205 ../src/schematic-view.c:1722
+#: ../src/schematic-view.c:1736
 #, fuzzy
-msgid "Could not find the required file"
+msgid "SchematicView"
+msgstr "Schemautskrift"
+
+#: ../src/schematic-view.c:185 ../src/schematic-view.c:279
+#, fuzzy
+msgid "Could not create properties dialog"
+msgstr "Kunde inte skapa dialogen för komponentegenskaper."
+
+#: ../src/schematic-view.c:192 ../src/schematic-view.c:286
+#, fuzzy
+msgid "Could not create properties dialog due to issues with "
+msgstr "Kunde inte skapa dialogen för komponentegenskaper."
+
+#: ../src/schematic-view.c:242
+#, fuzzy
+msgid "Export to..."
+msgstr "Exportera diagram"
+
+#: ../src/schematic-view.c:329
+msgid ""
+"<span weight=\"bold\" size=\"large\">No filename has been chosen</span>\n"
+"\n"
+"Please, click on the tag, beside, to select an output."
+msgstr ""
+
+#: ../src/schematic-view.c:404
+#, fuzzy, c-format
+msgid "Could not load file \"file://%s\""
 msgstr ""
 "Hittade inte begärd fil:\n"
 "%s"
 
-#: ../src/main.c:107
-msgid "Enables some debugging functions"
-msgstr "Aktiverar felsökningsfunktioner"
+#: ../src/schematic-view.c:426
+#, fuzzy, c-format
+msgid "Could not load recent file \"%s\""
+msgstr "Kunde inte skapa dialogen för simulering."
 
-#: ../src/main.c:107
-msgid "LEVEL"
-msgstr "NIVÅ"
-
-#: ../src/main.c:132
+#: ../src/schematic-view.c:474
+#, fuzzy, c-format
 msgid ""
-"You seem to be running Oregano without\n"
-"having it installed properly on your system.\n"
-"\n"
-"Please install Oregano and try again."
-msgstr ""
-"Du verkar köra Oregano utan att ha\n"
-"installerat det korrekt på systemet.\n"
-"\n"
-"Var vänlig installera Oregano och försök igen."
+"Could not load recent file \"%s\"\n"
+"%s"
+msgstr "Kunde inte skapa dialogen för simulering."
 
-#: ../src/main.c:155
+#: ../src/schematic-view.c:475 ../src/schematic-view.c:484
+#: ../src/schematic-view.c:491
+#, fuzzy
+msgid "Could not load recent file"
+msgstr "Kunde inte skapa dialogen för simulering."
+
+#: ../src/schematic-view.c:483
+#, c-format
+msgid "Can not handle file with mimetype \"%s\""
+msgstr ""
+
+#: ../src/schematic-view.c:558 ../src/schematic-view.c:1312
+#: ../src/schematic-view.c:1316
+msgid "Untitled.oregano"
+msgstr "Namnlös.oregano"
+
+#: ../src/schematic-view.c:564
+#, fuzzy
+msgid "Failed to save schematic file."
+msgstr "Kunde inte skapa dialogen för simulering."
+
+#: ../src/schematic-view.c:716 ../src/schematic-view.c:871
+#, fuzzy
+msgid "Could not create a netlist."
+msgstr "Kunde inte skapa komponentvÃ¤ljaren."
+
+#: ../src/schematic-view.c:719 ../src/schematic-view.c:874
+msgid "Unexpect failure occured."
+msgstr ""
+
+#: ../src/schematic-view.c:1199
+msgid "Failed to spawn builder object."
+msgstr ""
+
+#: ../src/schematic-view.c:1206
+#, fuzzy
+msgid "Could not create main window from file."
+msgstr "Kunde inte skapa diagramfönster."
+
+#: ../src/schematic-view.c:1317
+msgid "Untitled.netlist"
+msgstr "Namnlös.netlist"
+
+#: ../src/schematic-view.c:1464
+#, c-format
+msgid ""
+"<span weight=\"bold\" size=\"large\">Save changes to schematic %s before "
+"closing?</span>\n"
+"\n"
+"If you don't save, all changes since you last saved will be permanently lost."
+msgstr ""
+
+#: ../src/schematic-view.c:1472
+msgid "Close _without Saving"
+msgstr ""
+
+#: ../src/schematic-view.c:1723 ../src/schematic-view.c:1737
+#, fuzzy
+msgid "Could not create the log window."
+msgstr "Kunde inte skapa diagramfönster."
+
+#: ../src/settings.c:100
+#, fuzzy
+msgid "Engine <span weight=\"bold\" size=\"large\">"
+msgstr "<span weight=\"bold\" size=\"x-large\">Oväntat fel!!!</span>"
+
+#: ../src/settings.c:102
+msgid ""
+"</span> not found\n"
+"The engine is unable to locate the external program."
+msgstr ""
+
+#: ../src/settings.c:104
+msgid "Warning"
+msgstr ""
+
+#: ../src/settings.c:149
+#, c-format
+msgid ""
+"No engine allowing analysis is available.\n"
+"You need to install at least one engine ! \n"
+"spice3, ngspice or gnucap."
+msgstr ""
+
+#: ../src/settings.c:152
+#, fuzzy
+msgid "Could not create engine settings dialog"
+msgstr "Kunde inte skapa dialogen för simulering."
+
+#: ../src/settings.c:157 ../src/settings.c:173 ../src/settings.c:180
+#, fuzzy
+msgid "Could not create settings dialog"
+msgstr "Kunde inte skapa dialogen för simulering."
+
+#: ../src/oregano.c:178
+#, c-format
+msgid "Failed to spawn splash-screen '%s''. Code %i - %s"
+msgstr ""
+
+#: ../src/oregano.c:190
+#, fuzzy
 msgid ""
 "Could not find a parts library.\n"
 "\n"
-"This is probably due to a faulty installation\n"
-"of Oregano. Please check your installation."
-msgstr ""
-"Kunde inte hitta komponentbiblioteket.\n"
-"\n"
-"Detta beror troligen pÃ¥ en felaktig installation\n"
-"av Oregano. Var vÃ¤nlig kontrollera din installation."
+"Supposed to be in "
+msgstr "Kunde inte skapa komponentvÃ¤ljaren."
 
-#: ../src/main.c:212
+#: ../src/oregano.c:221
 msgid "Welcome to Oregano"
 msgstr "Välkommen till Oregano"
 
-#: ../src/load-schematic.c:261
-msgid "Bad file format."
-msgstr ""
-
-#: ../src/load-schematic.c:271
-msgid "Unknown parser error."
-msgstr ""
-
-#: ../src/load-library.c:149
-#, c-format
-msgid "Could not find the requested symbol: %s\n"
-msgstr "Kunde inte hitta den efterfrÃ¥gade symbolen: %s\n"
-
-#: ../src/load-library.c:165
-#, c-format
-msgid "Could not find the requested part: %s\n"
-msgstr "Kunde inte hitta komponenten: %s\n"
-
-#: ../src/file.c:50 ../src/file.c:90
-msgid "Oregano Files"
-msgstr "Oreganofiler"
-
-#: ../src/file.c:52 ../src/file.c:92
-msgid "All Files"
-msgstr "Alla filer"
-
-#: ../src/file.c:55
-msgid "Open File"
-msgstr "Öppna fil"
-
-#: ../src/file.c:95
-msgid "Save File"
-msgstr "Spara fil"
-
-#: ../src/file.c:145
-msgid "Netlist File"
-msgstr "Nätlistfil"
-
-#: ../src/file.c:221
-msgid "Open file"
-msgstr "Öppna fil"
-
-#: ../src/file.c:271
-msgid "Save schematic as"
-msgstr "Spara schemat som"
-
-#: ../src/file.c:336
-msgid "Netlist filename"
-msgstr "Filnamn för nätlista"
-
-#: ../src/dialogs.c:126
+#: ../src/plot.c:131
 #, fuzzy
-msgid ""
-"(c) 2003-2006 LUGFi\n"
-"(c) 1999-2001 Richard Hult"
+msgid "current"
+msgstr "Aktuell"
+
+#. Simulation failed?
+#: ../src/plot.c:240 ../src/plot.c:260
+msgid "The simulation produced no data!!\n"
 msgstr ""
-"(c) 2003-2004 LUGFi\n"
-"(c) 1999-2001 Richard Hult"
 
-#: ../src/dialogs.c:141
-msgid "Schematic capture and circuit simulation.\n"
-msgstr "Kretsschemadesign och simulering.\n"
-
-#: ../src/model/schematic.c:584
+#: ../src/plot.c:272 ../src/plot.c:530
 #, c-format
-msgid "File %s does not exists."
-msgstr ""
+msgid "Plot - %s"
+msgstr "Diagram - %s"
 
-#: ../src/model/schematic.c:592 ../src/model/schematic.c:630
-#, c-format
-msgid "Unknown file format for %s."
-msgstr ""
-
-#: ../src/model/schematic.c:611
-msgid "Load fails!."
-msgstr ""
-
-#: ../src/plot-add-function.c:48
-#, c-format
-msgid ""
-"The file %s could not be found. You might need to reinstall Oregano to fix "
-"this"
-msgstr ""
-
-#: ../src/plot-add-function.c:50 ../src/plot-add-function.c:57
+#: ../src/plot.c:281
 #, fuzzy
-msgid "Could not create plot window"
-msgstr "Kunde inte skapa diagramfönster."
+msgid "Nodes"
+msgstr "Modell"
+
+#: ../src/plot.c:285 ../src/plot.c:619
+#, fuzzy
+msgid "Functions"
+msgstr "Överföringsfunktion"
+
+#: ../src/plot.c:356
+#, fuzzy
+msgid "Oregano - Plot"
+msgstr "Oregano - Diagram"
+
+#. add Add Function menuitem
+#: ../src/plot.c:396
+#, fuzzy
+msgid "Add Function"
+msgstr "Överföringsfunktion"
+
+#: ../src/plot.c:404
+msgid "Close"
+msgstr ""
+
+#. Installation of the menu in the menubar
+#: ../src/plot.c:410
+#, fuzzy
+msgid "File"
+msgstr "_Arkiv"
+
+#: ../src/plot.c:643
+msgid "TRANSFER"
+msgstr ""
+
+#~ msgid "<b>AC Analysis Options</b>"
+#~ msgstr "<b>AC-analysalternativ</b>"
+
+#~ msgid "<b>Type</b>"
+#~ msgstr "<b>Typ</b>"
+
+#~ msgid "Edit Clamp properties"
+#~ msgstr "Ändra mätpunktsgenskaper"
+
+#~ msgid "Imaginary part"
+#~ msgstr "Imaginär del"
+
+#~ msgid "Magnitude"
+#~ msgstr "Magnitud"
+
+#~ msgid "Phase"
+#~ msgstr "Fas"
+
+#~ msgid "Real part"
+#~ msgstr "Realdel"
+
+#~ msgid "Use decibel scale"
+#~ msgstr "Använd decibelskala"
+
+#~ msgid "Voltage"
+#~ msgstr "Spänning"
+
+#~ msgid "Clear"
+#~ msgstr "Töm"
+
+#~ msgid "Oregano Log Window"
+#~ msgstr "Oregano Loggfönster"
+
+#~ msgid "<b>Alignment</b>"
+#~ msgstr "<b>Inrättning</b>"
+
+#~ msgid "Center Horizontally"
+#~ msgstr "Centrera horisontellt"
+
+#~ msgid "Center Vertically"
+#~ msgstr "Centrera vertikalt"
+
+#~ msgid "Fit to page"
+#~ msgstr "Anpassa till sida"
+
+#~ msgid "<b>Preview</b>"
+#~ msgstr "<b>Förhandsgranskning</b>"
+
+#~ msgid "Library:"
+#~ msgstr "Bibliotek:"
+
+#~ msgid "Place"
+#~ msgstr "Placera"
+
+#~ msgid "Press this button to place the selected part"
+#~ msgstr "Tryck denna knapp fÃ¶r att placera ut vald komponent"
+
+#~ msgid "Select which library to use"
+#~ msgstr "Välj bibliotek"
+
+#~ msgid "Part Properties"
+#~ msgstr "Komponentegenskaper"
+
+#~ msgid "<b>Plot</b>"
+#~ msgstr "<b>Diagram</b>"
+
+#~ msgid "<b>Variables</b>"
+#~ msgstr "<b>Variabler</b>"
+
+#~ msgid "Plot"
+#~ msgstr "Diagram"
+
+#~ msgid "    "
+#~ msgstr "    "
+
+#~ msgid "<b>Comments</b>"
+#~ msgstr "<b>Kommentarer</b>"
+
+#~ msgid "Author:"
+#~ msgstr "Författare:"
+
+#~ msgid "Properties"
+#~ msgstr "Egenskaper"
+
+#~ msgid "Title:"
+#~ msgstr "Titel:"
+
+#~ msgid "\n"
+#~ msgstr "\n"
+
+#~ msgid "<b>Data Paths</b>"
+#~ msgstr "<b>Datasökvägar</b>"
+
+#~ msgid "<b>Engine</b>"
+#~ msgstr "<b>Motor</b>"
+
+#~ msgid "<b>Executable Path</b>"
+#~ msgstr "<b>Programsökvägar</b>"
+
+#~ msgid "<b>File Format</b>"
+#~ msgstr "<b>Filformat</b>"
+
+#~ msgid "<b>User Interface</b>"
+#~ msgstr "<b>Användargränssnitt</b>"
+
+#~ msgid "Automatically show log windows after simulation"
+#~ msgstr "Visa loggfönstret automatiskt efter simulering"
+
+#~ msgid "Compress saved files"
+#~ msgstr "Komprimera sparade filer"
+
+#~ msgid "Grid size[px]   "
+#~ msgstr "Rutnätsstorlek [px]: "
+
+#~ msgid "Library"
+#~ msgstr "Bibliotek"
+
+#~ msgid "Model"
+#~ msgstr "Modell"
+
+#~ msgid "Paths"
+#~ msgstr "Sökvägar"
+
+#, fuzzy
+#~ msgid "Realtime update of selection (slow)"
+#~ msgstr "Realtidsuppdatering av markering (långsamt)"
+
+#~ msgid "Remove"
+#~ msgstr "Ta bort"
+
+#, fuzzy
+#~ msgid "Select A File"
+#~ msgstr "Markera _allt"
+
+#~ msgid "Show the splash screen at application startup"
+#~ msgstr "Visa splash-skärm vid tillämpningsstart"
+
+#~ msgid "User Interface"
+#~ msgstr "Anvädargrässnitt"
+
+#~ msgid "<b>AC</b>"
+#~ msgstr "<b>AC</b>"
+
+#~ msgid "<b>DC Sweep</b>"
+#~ msgstr "<b>DC Svep</b>"
+
+#~ msgid "<b>Fourier</b>"
+#~ msgstr "<b>Fourier</b>"
+
+#~ msgid "<b>Transient</b>"
+#~ msgstr "<b>Transient</b>"
+
+#~ msgid "Add to list"
+#~ msgstr "Lägg till till lista"
+
+#~ msgid "Analysis Options"
+#~ msgstr "Analysalternativ"
+
+#~ msgid "Analysis Parameters"
+#~ msgstr "Analysparametrar"
+
+#~ msgid "DEC"
+#~ msgstr "DEC"
+
+#~ msgid "Frequency"
+#~ msgstr "Frekvens"
+
+#~ msgid "LIN"
+#~ msgstr "LIN"
+
+#~ msgid "List of outputs"
+#~ msgstr "Utdatalista"
+
+#~ msgid "OCT"
+#~ msgstr "OCT"
+
+#~ msgid "Points"
+#~ msgstr "Punkter"
+
+#~ msgid "Source"
+#~ msgstr "Källa"
+
+#~ msgid "Start"
+#~ msgstr "Start"
+
+#~ msgid "Step"
+#~ msgstr "Steg"
+
+#~ msgid "Stop"
+#~ msgstr "Stopp"
+
+#~ msgid "Type"
+#~ msgstr "Typ"
+
+#~ msgid "Use Initial Conditions"
+#~ msgstr "Använd startförutsättningar"
+
+#, fuzzy
+#~ msgid "Progress: None"
+#~ msgstr "Förlopp:"
+
+#~ msgid "<b>Text</b>"
+#~ msgstr "<b>Text</b>"
+
+#~ msgid "Text Properties"
+#~ msgstr "Textegenskaper"
+
+#~ msgid "Netlist View"
+#~ msgstr "Nätlistvy"
+
+#~ msgid "Edit the part's properties"
+#~ msgstr "Ändra komponentens egenskaper"
+
+#~ msgid "Copy the object to the clipboard"
+#~ msgstr "Kopiera objektet till urklipp"
+
+#~ msgid "Cut"
+#~ msgstr "Klipp ut"
+
+#~ msgid "Cut the object to the clipboard"
+#~ msgstr "Klipp ut objektet till urklipp"
+
+#~ msgid "Delete"
+#~ msgstr "Ta bort"
+
+#~ msgid "Delete the object"
+#~ msgstr "Ta bort objektet"
+
+#~ msgid "Rotate"
+#~ msgstr "Rotera"
+
+#~ msgid "Rotate the selected objects 90 degrees clockwise"
+#~ msgstr "Rotera markeringen 90 grader medsols"
+
+#, fuzzy
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"large\">The simulation was aborted due to an "
+#~ "error.</span>\n"
+#~ "\n"
+#~ "Would you like to view the error log?"
+#~ msgstr ""
+#~ "<span weight=\"bold\" size=\"x-large\">Simuleringen avbröts pga ett fel.</"
+#~ "span>\n"
+#~ "Vill du visa loggen med felmeddelanden?"
+
+#, fuzzy
+#~ msgid "The simulation was aborted due to an error"
+#~ msgstr ""
+#~ "<span weight=\"bold\" size=\"x-large\">Simuleringen avbröts pga ett fel.</"
+#~ "span>\n"
+
+#, fuzzy
+#~ msgid "Could not create the page properties dialog"
+#~ msgstr "Kunde inte skapa dialogen för komponentegenskaper."
+
+#, fuzzy
+#~ msgid "Page Properties"
+#~ msgstr "Komponentegenskaper"
+
+#, fuzzy
+#~ msgid "Deselect a_ll"
+#~ msgstr "A_vmarkera"
+
+#~ msgid "50%"
+#~ msgstr "50%"
+
+#~ msgid "75%"
+#~ msgstr "75%"
+
+#~ msgid "100%"
+#~ msgstr "100%"
+
+#~ msgid "125%"
+#~ msgstr "125%"
+
+#~ msgid "150%"
+#~ msgstr "150%"
+
+#~ msgid "Zoom"
+#~ msgstr "Zoom"
+
+#~ msgid "Show or hide node labels"
+#~ msgstr "Visa eller göm nodetiketter"
+
+#~ msgid "_Contents"
+#~ msgstr "_Innehåll"
+
+#~ msgid "Show program help"
+#~ msgstr "Visa programhjälp"
+
+#~ msgid "New"
+#~ msgstr "Nytt"
+
+#~ msgid "Cut the selection to the clipboard"
+#~ msgstr "Klipp ut markeringen till urklipp"
+
+#~ msgid "Copy the selection to the clipboard"
+#~ msgstr "Kopiera markeringen till urklipp"
+
+#, fuzzy
+#~ msgid "Paste the clipboard"
+#~ msgstr "Klistra in från urklipp"
+
+#~ msgid "Add a Voltage test clamp"
+#~ msgstr "Lägg till en spänningsmätpunkt"
+
+#~ msgid "Simulation settings"
+#~ msgstr "Simuleringsinställningar"
+
+#~ msgid "Show or hide the part browser"
+#~ msgstr "Visa eller göm komponentväljaren"
+
+#~ msgid "Turn on/off the grid"
+#~ msgstr "Stäng av/sätt på rutnätet"
+
+#~ msgid "Paste the contents of the clipboard to the sheet"
+#~ msgstr "Klistra in innehållet i urklipp på bladet"
+
+#~ msgid "Pages"
+#~ msgstr "Sidor"
+
+#, fuzzy
+#~ msgid "Can't get paper info! .. getting default!"
+#~ msgstr "Kan ej få pappersinformation .. tar standardvärden!"
+
+#~ msgid "Could not create font for printing."
+#~ msgstr "Kunde inte skapa typsnitt för utskrift."
+
+#~ msgid "Printing failed."
+#~ msgstr "Utskrift misslyckades."
+
+#~ msgid "Sans 10"
+#~ msgstr "Sans 10"
+
+#~ msgid "Sans 8"
+#~ msgstr "Sans 8"
+
+#~ msgid "Preview the plot before printing"
+#~ msgstr "Granska diagrammet före utskrift"
+
+#~ msgid "_Preferences..."
+#~ msgstr "_Inställningar..."
+
+#~ msgid "Show crosshairs"
+#~ msgstr "Visa hårkors"
+
+#~ msgid "_Plot"
+#~ msgstr "_Diagram"
+
+#~ msgid "Could not create plot export window."
+#~ msgstr "Kunde inte skapa diagramexportfönster."
+
+#~ msgid "Save PNG"
+#~ msgstr "Spara PNG"
+
+#~ msgid ""
+#~ "Gtk version 2.2 does not support GtkTreeModelFilter...\n"
+#~ "Filtering disable!"
+#~ msgstr ""
+#~ "Gtk version 2.2 stöder ej GtkTreeModelFilter...\n"
+#~ "Filtrering urkopplad!"
+
+#, fuzzy
+#~ msgid "abort"
+#~ msgstr "Start"
+
+#~ msgid "Netlist for %s"
+#~ msgstr "Nätlista för %s"
+
+#~ msgid "Author : %s"
+#~ msgstr "Författare : %s"
+
+#~ msgid "Page %N of %Q"
+#~ msgstr "Sida %N av %Q"
+
+#~ msgid "Enables some debugging functions"
+#~ msgstr "Aktiverar felsökningsfunktioner"
+
+#~ msgid "LEVEL"
+#~ msgstr "NIVÅ"
+
+#~ msgid ""
+#~ "You seem to be running Oregano without\n"
+#~ "having it installed properly on your system.\n"
+#~ "\n"
+#~ "Please install Oregano and try again."
+#~ msgstr ""
+#~ "Du verkar köra Oregano utan att ha\n"
+#~ "installerat det korrekt på systemet.\n"
+#~ "\n"
+#~ "Var vänlig installera Oregano och försök igen."
+
+#~ msgid ""
+#~ "Could not find a parts library.\n"
+#~ "\n"
+#~ "This is probably due to a faulty installation\n"
+#~ "of Oregano. Please check your installation."
+#~ msgstr ""
+#~ "Kunde inte hitta komponentbiblioteket.\n"
+#~ "\n"
+#~ "Detta beror troligen pÃ¥ en felaktig installation\n"
+#~ "av Oregano. Var vÃ¤nlig kontrollera din installation."
+
+#~ msgid "Open file"
+#~ msgstr "Öppna fil"
+
+#~ msgid "Netlist filename"
+#~ msgstr "Filnamn för nätlista"
+
+#, fuzzy
+#~ msgid ""
+#~ "(c) 2003-2006 LUGFi\n"
+#~ "(c) 1999-2001 Richard Hult"
+#~ msgstr ""
+#~ "(c) 2003-2004 LUGFi\n"
+#~ "(c) 1999-2001 Richard Hult"
+
+#, fuzzy
+#~ msgid "Could not create plot window"
+#~ msgstr "Kunde inte skapa diagramfönster."
 
 #~ msgid ""
 #~ "<span weight=\"bold\" size=\"x-large\">Could not find the required file:\n"
@@ -1313,9 +1586,6 @@ msgstr "Kunde inte skapa diagramfönster."
 #~ "span>\n"
 #~ "\n"
 #~ "%s"
-
-#~ msgid "<span weight=\"bold\" size=\"x-large\">Unspected error!!!</span>"
-#~ msgstr "<span weight=\"bold\" size=\"x-large\">Oväntat fel!!!</span>"
 
 #~ msgid ""
 #~ "<span weight=\"bold\" size=\"x-large\">Schematic %s has unsaved changes</"
@@ -1446,14 +1716,8 @@ msgstr "Kunde inte skapa diagramfönster."
 #~ msgid "GnuCap"
 #~ msgstr "GnuCap"
 
-#~ msgid "NgSpice"
-#~ msgstr "NgSpice"
-
 #~ msgid "Parser"
 #~ msgstr "Satsanalysera"
-
-#~ msgid "Oregano"
-#~ msgstr "Oregano"
 
 #~ msgid "ABCDEFGHIJK abcdefghi"
 #~ msgstr "ABCDEFGHIJK abcdefghi"

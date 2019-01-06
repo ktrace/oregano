@@ -1,504 +1,974 @@
 # Traducción española de Oregano
 # Copyright (C) 2001 Free Software Foundation, Inc.
 # Antonio MartÃ­nez Alvarez <newton@retemail.es>, 2001.
-# 
-# 
+#
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: oregano 0.50.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2006-09-11 02:36-0300\n"
+"POT-Creation-Date: 2019-01-06 01:38+0300\n"
 "PO-Revision-Date: 2005-09-03 13:33-0300\n"
 "Last-Translator: Ricardo Markiewicz <rmarkie@fi.uba.ar> \n"
 "Language-Team: Spanish\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8-bit\n"
 
-#: ../data/dialogs/clamp-properties-dialog.glade2.h:1
-msgid "<b>AC Analysis Options</b>"
-msgstr "<b>Opciones para análisis AC</b>"
-
-#: ../data/dialogs/clamp-properties-dialog.glade2.h:2
-msgid "<b>Type</b>"
-msgstr "<b>Tipo</b>"
-
-#: ../data/dialogs/clamp-properties-dialog.glade2.h:3
-msgid "Current"
-msgstr "Intensidad"
-
-#: ../data/dialogs/clamp-properties-dialog.glade2.h:4
-msgid "Edit Clamp properties"
-msgstr "Editar las propiedades de la punta"
-
-#: ../data/dialogs/clamp-properties-dialog.glade2.h:5
-msgid "Imaginary part"
-msgstr "Parte imaginaria"
-
-#: ../data/dialogs/clamp-properties-dialog.glade2.h:6
-msgid "Magnitude"
-msgstr "Magnitud"
-
-#: ../data/dialogs/clamp-properties-dialog.glade2.h:7
-msgid "Phase"
-msgstr "Fase"
-
-#: ../data/dialogs/clamp-properties-dialog.glade2.h:8
-msgid "Real part"
-msgstr "Parte real"
-
-#: ../data/dialogs/clamp-properties-dialog.glade2.h:9
-msgid "Use decibel scale"
-msgstr "Usar escala en decibeles"
-
-#: ../data/dialogs/clamp-properties-dialog.glade2.h:10
-msgid "Voltage"
-msgstr "Tensión"
-
-#: ../data/dialogs/log-window.glade2.h:1
-msgid "Clear"
-msgstr "Limpiar"
-
-#: ../data/dialogs/log-window.glade2.h:2
-msgid "Oregano Log Window"
-msgstr "Ventana de Errores de Oregano"
-
-#: ../data/dialogs/page-properties.glade2.h:1
-msgid "<b>Alignment</b>"
-msgstr "<b>Alineación</b>"
-
-#: ../data/dialogs/page-properties.glade2.h:2
-msgid "Center Horizontally"
-msgstr "Centrar horizontalmente"
-
-#: ../data/dialogs/page-properties.glade2.h:3
-msgid "Center Vertically"
-msgstr "Centrar verticalmente"
-
-#: ../data/dialogs/page-properties.glade2.h:4
-msgid "Fit to page"
-msgstr "Ajustar a la página"
-
-#: ../data/dialogs/page-properties.glade2.h:5
-msgid "Print Properties"
-msgstr "Propiedades de Página"
-
-#: ../data/dialogs/part-browser.glade2.h:1
-msgid "<b>Preview</b>"
-msgstr "<b>Vista previa</b>"
-
-#: ../data/dialogs/part-browser.glade2.h:2
-msgid "Library:"
-msgstr "Biblioteca:"
-
-#: ../data/dialogs/part-browser.glade2.h:3 ../src/schematic-view-ui.h:360
-msgid "Parts"
-msgstr "Componentes"
-
-#: ../data/dialogs/part-browser.glade2.h:4
-msgid "Place"
-msgstr "Insertar"
-
-#: ../data/dialogs/part-browser.glade2.h:5
-msgid "Press this button to place the selected part"
-msgstr "Pulse este botón para insertar el componente seleccionado"
-
-#: ../data/dialogs/part-browser.glade2.h:6
-msgid "Search:"
-msgstr "Buscar:"
-
-#: ../data/dialogs/part-browser.glade2.h:7
-msgid "Select which library to use"
-msgstr "Seleccione bibioteca a usar"
-
-#: ../data/dialogs/part-properties-dialog.glade2.h:1
-msgid "Part Properties"
-msgstr "Propiedades del componente"
-
-#: ../data/dialogs/plot-window.glade2.h:1
-msgid "<b>Plot</b>"
-msgstr "<b>Gráfica</b>"
-
-#: ../data/dialogs/plot-window.glade2.h:2
-msgid "<b>Variables</b>"
-msgstr "<b>Variables</b>"
-
-#: ../data/dialogs/plot-window.glade2.h:3
-msgid "Plot"
-msgstr "Graficar"
-
-#: ../data/dialogs/plot-window.glade2.h:4
-msgid "Region"
-msgstr "Región"
-
-#: ../data/dialogs/plot-window.glade2.h:5
-msgid "Shift"
-msgstr "Mover"
-
-#: ../data/dialogs/properties.glade2.h:1
-#: ../data/dialogs/textbox-properties-dialog.glade2.h:1
-msgid "    "
-msgstr "    "
-
-#: ../data/dialogs/properties.glade2.h:2
-msgid "<b>Comments</b>"
-msgstr "<b>Comentarios</b>"
-
-#: ../data/dialogs/properties.glade2.h:3
-msgid "Author:"
-msgstr "Autor:"
-
-#: ../data/dialogs/properties.glade2.h:4 ../src/sheet/part-item.c:147
-msgid "Properties"
-msgstr "Propiedades"
-
-#: ../data/dialogs/properties.glade2.h:5
-msgid "Title:"
-msgstr "Tí­tulo:"
-
-#: ../data/dialogs/settings.glade2.h:1
-msgid "\n"
-msgstr "\n"
-
-#: ../data/dialogs/settings.glade2.h:3
-msgid "<b>Data Paths</b>"
-msgstr "<b>Rutas a datos</b>"
-
-#: ../data/dialogs/settings.glade2.h:4
-msgid "<b>Engine</b>"
-msgstr "<b>Motor</b>"
-
-#: ../data/dialogs/settings.glade2.h:5
-msgid "<b>Executable Path</b>"
-msgstr "<b>Ejecutables</b>"
-
-#: ../data/dialogs/settings.glade2.h:6
-msgid "<b>File Format</b>"
-msgstr "<b>Formato de fichero</b>"
-
-#: ../data/dialogs/settings.glade2.h:7
-msgid "<b>User Interface</b>"
-msgstr "<b>Interfaz de usuario</b>"
-
-#: ../data/dialogs/settings.glade2.h:8
-msgid "Automatically show log windows after simulation"
-msgstr "Mostrar la ventana de log después de cada simulación"
-
-#: ../data/dialogs/settings.glade2.h:9
-msgid "Compress saved files"
-msgstr "Comprimir los archivos guardados"
-
-#: ../data/dialogs/settings.glade2.h:10
-msgid "Grid size[px]   "
-msgstr "Tamaño de cuadrí­cula [px] "
-
-#: ../data/dialogs/settings.glade2.h:11
-msgid "Library"
-msgstr "Biblioteca:"
-
-#: ../data/dialogs/settings.glade2.h:12
-msgid "Model"
-msgstr "Modelo"
-
-#: ../data/dialogs/settings.glade2.h:13
-msgid "Paths"
-msgstr "Rutas"
-
-#: ../data/dialogs/settings.glade2.h:14
-msgid "Preferences"
-msgstr "Preferencias"
-
-#: ../data/dialogs/settings.glade2.h:15
-msgid "Realtime update of selection (slow)"
-msgstr "Actualización en tiempo real de la selección (lento)"
-
-#: ../data/dialogs/settings.glade2.h:16
-msgid "Remove"
-msgstr "Borrar"
-
-#: ../data/dialogs/settings.glade2.h:17
-msgid "Select A File"
-msgstr "Seleccionar Archivo"
-
-#: ../data/dialogs/settings.glade2.h:18
-msgid "Show the splash screen at application startup"
-msgstr "Mostrar pantalla de presentación al inicio"
-
-#: ../data/dialogs/settings.glade2.h:19
-msgid "TODO : Add FINDPATH for Engines"
-msgstr "TODO : Agregar FINDPATH para Motores"
-
-#: ../data/dialogs/settings.glade2.h:20
-msgid "User Interface"
-msgstr "Interfaz de usuario"
-
-#: ../data/dialogs/sim-settings.glade2.h:1
-msgid "<b>AC</b>"
-msgstr "<b>AC</b>"
-
-#: ../data/dialogs/sim-settings.glade2.h:2
-msgid "<b>DC Sweep</b>"
-msgstr "<b>Fuente DC</b>"
-
-#: ../data/dialogs/sim-settings.glade2.h:3
-msgid "<b>Fourier</b>"
-msgstr "<b>Fourier</b>"
-
-#: ../data/dialogs/sim-settings.glade2.h:4
-msgid "<b>Transient</b>"
-msgstr "<b>Análisis en el tiempo</b>"
-
-#: ../data/dialogs/sim-settings.glade2.h:5
-msgid "Add new options"
-msgstr "Agregar nuevas opciones"
-
-#: ../data/dialogs/sim-settings.glade2.h:6
-msgid "Add to list"
-msgstr "Añadir a la lista"
-
-#: ../data/dialogs/sim-settings.glade2.h:7
-msgid "Analysis Options"
-msgstr "Opciones"
-
-#: ../data/dialogs/sim-settings.glade2.h:8
-msgid "Analysis Parameters"
-msgstr "Parámetros del análisis"
-
-#: ../data/dialogs/sim-settings.glade2.h:9
-msgid "DEC"
-msgstr "DEC"
-
-#: ../data/dialogs/sim-settings.glade2.h:10
-msgid "Frequency"
-msgstr "Frecuencia"
-
-#: ../data/dialogs/sim-settings.glade2.h:11
-msgid "LIN"
-msgstr "LIN"
-
-#: ../data/dialogs/sim-settings.glade2.h:12
-msgid "List of outputs"
-msgstr "Lista de salidas"
-
-#: ../data/dialogs/sim-settings.glade2.h:13
-msgid "OCT"
-msgstr "OCT"
-
-#: ../data/dialogs/sim-settings.glade2.h:14
-msgid "Points"
-msgstr "Puntos"
-
-#: ../data/dialogs/sim-settings.glade2.h:15
-msgid "Simulation Settings"
-msgstr "Parámetros de simulación"
-
-#: ../data/dialogs/sim-settings.glade2.h:16
-msgid "Source"
-msgstr "Fuente"
-
-#: ../data/dialogs/sim-settings.glade2.h:17
-msgid "Start"
-msgstr "Comienzo"
-
-#: ../data/dialogs/sim-settings.glade2.h:18
-msgid "Step"
-msgstr "Paso"
-
-#: ../data/dialogs/sim-settings.glade2.h:19
-msgid "Stop"
-msgstr "Final"
-
-#: ../data/dialogs/sim-settings.glade2.h:20
-msgid "Type"
-msgstr "Tipo"
-
-#: ../data/dialogs/sim-settings.glade2.h:21
-msgid "Use Initial Conditions"
-msgstr "Usar Condiciones Iniciales"
-
-#: ../data/dialogs/simulation.glade2.h:1
-msgid "Progress: None"
-msgstr "Evolución: Ninguna"
-
-#: ../data/dialogs/simulation.glade2.h:2
+#: ../data/oregano.desktop.in.h:1
+msgid "Oregano"
+msgstr "Oregano"
+
+#: ../data/oregano.desktop.in.h:2
+#, fuzzy
+msgid "Electrical Engineering Tool"
+msgstr "Una herramienta para la IngenierÃ­a ElectrÃ³nica\n"
+
+#: ../data/oregano.desktop.in.h:3
+#, fuzzy
+msgid "Schematic, capture and simulation of electronic circuits"
+msgstr "Preparación de esquemáticos y simulación de circuitos.\n"
+
+#: ../data/mime/oregano-mimetypes.xml.in.h:1
+#, fuzzy
+msgid "Schematic file"
+msgstr "Gráfica del esquemático"
+
+#: ../src/part-browser.c:182 ../src/part-browser.c:374
+msgid "Unable to load required part"
+msgstr "No se pudo cargar el componente requerido"
+
+#: ../src/part-browser.c:441 ../src/part-browser.c:454
+msgid "Could not create part browser"
+msgstr "No se pudo crear el visor de componentes"
+
+#: ../src/simulation.c:108 ../src/simulation.c:121 ../src/simulation.c:129
+#: ../src/simulation.c:210 ../src/simulation.c:213 ../src/simulation.c:240
+#: ../src/simulation.c:264
 msgid "Simulation"
 msgstr "Simulación"
 
-#: ../data/dialogs/textbox-properties-dialog.glade2.h:2
-msgid "<b>Text</b>"
-msgstr "<b>Texto</b>"
+#: ../src/simulation.c:109
+#, fuzzy
+msgid "Could not create simulation dialog - Builder creation failed."
+msgstr "No se pudo crear el diálogo de simulación"
 
-#: ../data/dialogs/textbox-properties-dialog.glade2.h:3
-msgid "Text Properties"
-msgstr "Propiedades del texto"
-
-#: ../data/dialogs/view-netlist.glade2.h:1
-msgid "Netlist View"
-msgstr "Ver lista de nodos"
-
-#: ../data/dialogs/view-netlist.glade2.h:2 ../src/schematic-view-ui.h:161
-msgid "_Simulate"
-msgstr "_Simular"
-
-#: ../src/sheet/part-item.c:147
-msgid "Edit the part's properties"
-msgstr "Editar las propiedades del componente"
-
-#: ../src/sheet/part-item.c:616 ../src/sheet/part-item.c:765
-#: ../src/sheet/textbox-item.c:679 ../src/sim-settings.c:775
-#: ../src/settings.c:139 ../src/schematic-view.c:251
-#: ../src/schematic-view.c:317 ../src/schematic-view.c:2431 ../src/plot.c:434
-#: ../src/plot.c:689 ../src/part-browser.c:496 ../src/netlist-editor.c:309
-#, c-format
-msgid ""
-"The file %s could not be found. You might need to reinstall Oregano to fix "
-"this."
-msgstr ""
-"El archivo %s no se pudo encontrar. Es posible que haga falta reinstalar "
-"Oregano para solucionarlo."
-
-#: ../src/sheet/part-item.c:618 ../src/sheet/part-item.c:626
-#: ../src/sheet/part-item.c:767 ../src/sheet/part-item.c:775
-msgid "Could not create part properties dialog."
-msgstr "No se pudo crear el diálogo de propiedades del componente"
-
-#: ../src/sheet/sheet-item.c:307 ../src/schematic-view-ui.h:288
-msgid "Copy"
-msgstr "Copiar"
-
-#: ../src/sheet/sheet-item.c:307
-msgid "Copy the object to the clipboard"
-msgstr "Copiar el objeto al portapapeles"
-
-#: ../src/sheet/sheet-item.c:310 ../src/schematic-view-ui.h:285
-msgid "Cut"
-msgstr "Cortar"
-
-#: ../src/sheet/sheet-item.c:310
-msgid "Cut the object to the clipboard"
-msgstr "Cortar el objeto al portapapeles"
-
-#: ../src/sheet/sheet-item.c:313
-msgid "Delete"
-msgstr "Borrar"
-
-#: ../src/sheet/sheet-item.c:313
-msgid "Delete the object"
-msgstr "Borrar el objeto"
-
-#: ../src/sheet/sheet-item.c:319
-msgid "Rotate"
-msgstr "Rotar"
-
-#: ../src/sheet/sheet-item.c:320
-msgid "Rotate the selected objects 90 degrees clockwise"
-msgstr "Rotar los objetos selecionados 90 grados en sentido horario"
-
-#: ../src/sheet/textbox-item.c:99
-msgid "Edit..."
-msgstr "Editar..."
-
-#: ../src/sheet/textbox-item.c:99
-msgid "Edit the text"
-msgstr "Editar el texto"
-
-#: ../src/sheet/textbox-item.c:596
-msgid "Label"
-msgstr "Etiqueta"
-
-#: ../src/sheet/textbox-item.c:681 ../src/sheet/textbox-item.c:690
-msgid "Could not create textbox properties dialog"
-msgstr "No se pudo crear el diálogo de propiedades del texto"
-
-#: ../src/simulation.c:102 ../src/simulation.c:109 ../src/simulation.c:115
+#: ../src/simulation.c:121
 msgid "Could not create simulation dialog"
 msgstr "No se pudo crear el diálogo de simulación"
 
-#: ../src/simulation.c:150
+#: ../src/simulation.c:130
+#, fuzzy
+msgid ""
+"Could not create simulation dialog - .ui file lacks widget called \"toplevel"
+"\"."
+msgstr "No se pudo crear el diálogo de simulación"
+
+#: ../src/simulation.c:174 ../src/simulation.c:185
 #, c-format
 msgid "Progress: <b>%s</b>"
 msgstr "Evolución: <b>%s</b>"
 
-#: ../src/simulation.c:201
-msgid ""
-"<span weight=\"bold\" size=\"large\">The simulation was aborted due to an "
-"error.</span>\n"
-"\n"
-"Would you like to view the error log?"
-msgstr ""
-"<span weight=\"bold\" size=\"large\">La simulación ha finalizado debido a un "
-"error.</span>\n"
-"¿Quiere ver el log de errores?"
-
 #: ../src/simulation.c:211
-msgid "The simulation was aborted due to an error"
-msgstr "La simulación ha finalizado debido a un error"
+msgid "Finished with warnings:"
+msgstr ""
 
-#: ../src/sim-settings.c:229
-msgid "Add new option"
-msgstr "Agregar nueva opción"
+#: ../src/simulation.c:213
+msgid "Finished."
+msgstr ""
 
-#: ../src/sim-settings.c:777 ../src/sim-settings.c:784
-#: ../src/sim-settings.c:790
-msgid "Could not create simulation settings dialog"
-msgstr "No se pudo crear el diálogo de parámetros de la simulación"
+#: ../src/simulation.c:240
+msgid "Aborted. See lines below for details."
+msgstr ""
 
-#: ../src/sim-settings.c:814
-msgid "Option"
-msgstr "Opción"
+#: ../src/simulation.c:264
+msgid "Canceled."
+msgstr ""
 
-#: ../src/sim-settings.c:816
-msgid "Value"
-msgstr "Valor"
+#: ../src/dialogs.c:235
+msgid ""
+"(c) 2017-2018 Guido Trentalancia\n"
+"(c) 2012-2017 Bernhard Schuster\n"
+"(c) 2009-2012 Marc Lorber\n"
+"(c) 2003-2006 LUGFi\n"
+"(c) 1999-2001 Richard Hult"
+msgstr ""
 
-#: ../src/settings.c:141 ../src/settings.c:148 ../src/settings.c:154
-msgid "Could not create settings dialog"
-msgstr "No se pudo crear el diálogo deconfiguración"
+#: ../src/dialogs.c:247
+msgid "Schematic capture and circuit simulation.\n"
+msgstr "Preparación de esquemáticos y simulación de circuitos.\n"
 
-#: ../src/settings.c:215
-msgid "Engine executable not found"
-msgstr "No se encontró el ejecutable del Motor"
+#: ../src/model/part.c:209
+#, fuzzy, c-format
+msgid "Couldn't find the requested symbol%s for part %s in library.\n"
+msgstr "No se pudo encontrar el sí­mbolo deseado: %s\n"
 
-#: ../src/settings.c:216
-msgid "The engine is unable to locate the external program."
-msgstr "El Motor fue incapaz de localizar el programa externo."
+#: ../src/model/schematic.c:579
+#, fuzzy, c-format
+msgid "File %s does not exist."
+msgstr "El archivo %s no existe."
 
-#: ../src/schematic-view.c:254
-msgid "Could not create properties dialog"
-msgstr "No se pudo crear el diálogo de propiedade"
+#: ../src/model/schematic.c:587 ../src/model/schematic.c:616
+#, c-format
+msgid "Unknown file format for %s."
+msgstr "Formato desconocido para %s."
 
-#: ../src/schematic-view.c:320
-msgid "Could not create the page properties dialog"
-msgstr "No se pudo crear el diálogo de propiedade de la página"
+#: ../src/model/schematic.c:976 ../src/model/schematic.c:981
+msgid "Error loading print-options.ui"
+msgstr ""
 
-#: ../src/schematic-view.c:383
-msgid "Could not load file"
-msgstr "No se pudo cargar el archivo"
+#: ../src/model/schematic.c:1048
+#, fuzzy
+msgid "Schematic"
+msgstr "Gráfica del esquemático"
 
-#: ../src/schematic-view.c:410 ../src/schematic-view.c:1304
-#: ../src/schematic-view.c:1312
-msgid "Untitled.oregano"
-msgstr "SinNombre.oregano"
+#: ../src/file.c:51 ../src/file.c:91
+msgid "Oregano Files"
+msgstr "Archivos de Oregano"
 
-#: ../src/schematic-view.c:415
-msgid "Could not save schematic file"
-msgstr "No se pudo guardar el archivo del esquemático"
+#: ../src/file.c:53 ../src/file.c:93
+msgid "All Files"
+msgstr "Todos los archivos"
 
-#: ../src/schematic-view.c:765 ../src/netlist-editor.c:225
-#: ../src/netlist-editor.c:436
+#: ../src/file.c:56
+msgid "Open File"
+msgstr "Abrir archivo"
+
+#: ../src/file.c:59 ../src/file.c:99 ../src/file.c:146 ../src/file.c:177
+#: ../src/schematic-view.c:245
+msgid "_Cancel"
+msgstr ""
+
+#: ../src/file.c:61 ../src/schematic-view-menu.h:52 ../src/schematic-view.c:247
+#, fuzzy
+msgid "_Open"
+msgstr "Abrir"
+
+#: ../src/file.c:96
+msgid "Save File"
+msgstr "Guardar"
+
+#: ../src/file.c:101 ../src/file.c:148 ../src/file.c:179
+#: ../src/schematic-view-menu.h:55
+#, fuzzy
+msgid "_Save"
+msgstr "Guardar"
+
+#: ../src/file.c:143
+msgid "Netlist File"
+msgstr "Archivo netlist"
+
+#: ../src/netlist-editor.c:139
+#, c-format
+msgid "The file %s could not be saved"
+msgstr "No se pudo guardar el archivo %s"
+
+#: ../src/netlist-editor.c:140
+msgid "Could not save temporary netlist file"
+msgstr "No se pudo guardar el archivo temporal con la lista de nodos"
+
+#: ../src/netlist-editor.c:201 ../src/netlist-editor.c:211
+msgid "Could not create the netlist dialog"
+msgstr "No se pudo crear el diálogo dela lista de nodos"
+
+#. gettext support
+#: ../src/netlist-editor.c:280
+#, c-format
+msgid "The file %s could not be found."
+msgstr "No se puedo encontrar el archivo %s."
+
+#: ../src/netlist-editor.c:281
+msgid "Could not find the required file"
+msgstr "No se pudo encontrar el archivo especificado"
+
+#: ../src/netlist-editor.c:322
 msgid "Could not create a netlist"
 msgstr "No se pudo crear la lista de nodos"
 
-#: ../src/schematic-view.c:768 ../src/netlist-editor.c:229
-#: ../src/netlist-editor.c:439
-msgid "An unexpected error has occurred"
+#: ../src/netlist-editor.c:325
+#, fuzzy
+msgid "Unexpected error occured"
 msgstr "Ha ocurrido un error inesperado"
 
-#: ../src/schematic-view.c:1313
+#. Name, ICON, Text, CTRL, DESC, CALLBACK
+#: ../src/schematic-view-menu.h:44
+msgid "_File"
+msgstr "_Archivo"
+
+#: ../src/schematic-view-menu.h:45
+#, fuzzy
+msgid "_Edit"
+msgstr "Editar..."
+
+#: ../src/schematic-view-menu.h:46
+msgid "_Tools"
+msgstr "_Herramientas"
+
+#: ../src/schematic-view-menu.h:47
+msgid "_View"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:48
+msgid "_Help"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:49
+msgid "_Zoom"
+msgstr "_Zoom"
+
+#: ../src/schematic-view-menu.h:50
+msgid "_New"
+msgstr "_Nuevo"
+
+#: ../src/schematic-view-menu.h:50
+msgid "Create a new schematic"
+msgstr "Crear un nuevo esquemático"
+
+#: ../src/schematic-view-menu.h:52
+#, fuzzy
+msgid "Open a schematic"
+msgstr "Abrir un esquemático existente"
+
+#: ../src/schematic-view-menu.h:54
+#, fuzzy
+msgid "_Recent Files"
+msgstr "Abrir archivo"
+
+#: ../src/schematic-view-menu.h:55
+#, fuzzy
+msgid "Save a schematic"
+msgstr "Guardar el esquemático"
+
+#: ../src/schematic-view-menu.h:57
+msgid "Save _As..."
+msgstr ""
+
+#: ../src/schematic-view-menu.h:58
+#, fuzzy
+msgid "Save a schematic with other name"
+msgstr "Guardar esquemático como"
+
+#: ../src/schematic-view-menu.h:59
+msgid "Print Properties"
+msgstr "Propiedades de Página"
+
+#: ../src/schematic-view-menu.h:59
+msgid "Set print properties"
+msgstr "Propiedades de Impresión"
+
+#: ../src/schematic-view-menu.h:61
+#, fuzzy
+msgid "_Print"
+msgstr "Imprimir"
+
+#: ../src/schematic-view-menu.h:61
+#, fuzzy
+msgid "Print schematic"
+msgstr "Imprimir esquemÃ¡tico"
+
+#: ../src/schematic-view-menu.h:62
+msgid "Print Preview"
+msgstr "Vista Preliminar"
+
+#: ../src/schematic-view-menu.h:63
+msgid "Preview the schematic before printing"
+msgstr "Previsualizar el esquemático antes de imprimir"
+
+#: ../src/schematic-view-menu.h:64
+#, fuzzy
+msgid "Schematic Pr_operties..."
+msgstr "_Propiedades del esquemático"
+
+#: ../src/schematic-view-menu.h:65
+msgid "Modify the schematic's properties"
+msgstr "Modificar las propiedades del esquemático"
+
+#: ../src/schematic-view-menu.h:66
+msgid "_Export..."
+msgstr ""
+
+#: ../src/schematic-view-menu.h:66
+#, fuzzy
+msgid "Export schematic"
+msgstr "Imprimir esquemÃ¡tico"
+
+#: ../src/schematic-view-menu.h:67
+msgid "_Close"
+msgstr "_Cerrar"
+
+#: ../src/schematic-view-menu.h:67
+#, fuzzy
+msgid "Close the current schematic"
+msgstr "Lanzar una simulación del esquemático en uso"
+
+#: ../src/schematic-view-menu.h:69
+msgid "_Quit"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:69
+#, fuzzy
+msgid "Close all schematics"
+msgstr "Crear un nuevo esquemático"
+
+#: ../src/schematic-view-menu.h:71 ../src/sheet/sheet-item.c:108
+msgid "C_ut"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:72 ../src/sheet/sheet-item.c:107
+#, fuzzy
+msgid "_Copy"
+msgstr "Copiar"
+
+#: ../src/schematic-view-menu.h:73
+#, fuzzy
+msgid "_Paste"
+msgstr "Pegar"
+
+#: ../src/schematic-view-menu.h:74 ../src/sheet/sheet-item.c:109
+msgid "_Delete"
+msgstr "_Borrar"
+
+#: ../src/schematic-view-menu.h:74 ../src/sheet/sheet-item.c:109
+msgid "Delete the selection"
+msgstr "Borrar la selección"
+
+#: ../src/schematic-view-menu.h:76 ../src/sheet/sheet-item.c:110
+msgid "_Rotate"
+msgstr "_Rotar"
+
+#: ../src/schematic-view-menu.h:77 ../src/sheet/sheet-item.c:111
+msgid "Rotate the selection clockwise"
+msgstr "Rotar la selección en sentido horario"
+
+#: ../src/schematic-view-menu.h:78 ../src/sheet/sheet-item.c:112
+msgid "Flip _horizontally"
+msgstr "Espejar _horizontalmente"
+
+#: ../src/schematic-view-menu.h:78 ../src/sheet/sheet-item.c:112
+msgid "Flip the selection horizontally"
+msgstr "Espeja horizontalmente la selección"
+
+#: ../src/schematic-view-menu.h:80 ../src/sheet/sheet-item.c:114
+msgid "Flip _vertically"
+msgstr "Espejar _verticalmente"
+
+#: ../src/schematic-view-menu.h:81 ../src/sheet/sheet-item.c:115
+msgid "Flip the selection vertically"
+msgstr "Espeja verticalmente la selección"
+
+#: ../src/schematic-view-menu.h:82
+msgid "Select _all"
+msgstr "Seleccionar _todo"
+
+#: ../src/schematic-view-menu.h:82
+msgid "Select all objects on the sheet"
+msgstr "Selecciona todos los objetos de la hoja"
+
+#: ../src/schematic-view-menu.h:84
+#, fuzzy
+msgid "Select _none"
+msgstr "Seleccionar _todo"
+
+#: ../src/schematic-view-menu.h:85
+msgid "Deselect the selected objects"
+msgstr "Deselecciona los objetos seleccionados"
+
+#: ../src/schematic-view-menu.h:86 ../src/sheet/part-item.c:138
+msgid "_Object Properties..."
+msgstr "Propiedades del _objeto..."
+
+#: ../src/schematic-view-menu.h:87
+msgid "Modify the object's properties"
+msgstr "Modifica las propiedades del objeto"
+
+#: ../src/schematic-view-menu.h:88
+msgid "Simulation S_ettings..."
+msgstr "Parámetros de la _Simulación"
+
+#: ../src/schematic-view-menu.h:89
+msgid "Edit the simulation settings"
+msgstr "Editar los parámetros de simulación"
+
+#: ../src/schematic-view-menu.h:90
+#, fuzzy
+msgid "_Preferences"
+msgstr "Preferencias"
+
+#: ../src/schematic-view-menu.h:90
+#, fuzzy
+msgid "Edit Oregano settings"
+msgstr "Editar los parámetros de simulación"
+
+#: ../src/schematic-view-menu.h:92
+msgid "_Simulate"
+msgstr "_Simular"
+
+#: ../src/schematic-view-menu.h:92
+msgid "Run a simulation"
+msgstr "Empezar la simulación"
+
+#: ../src/schematic-view-menu.h:94
+msgid "_Generate netlist"
+msgstr "_Generar listado de nodos"
+
+#: ../src/schematic-view-menu.h:94
+msgid "Generate a netlist"
+msgstr "Generar un listado de nodos"
+
+#: ../src/schematic-view-menu.h:96
+#, fuzzy
+msgid "Smart Search"
+msgstr "Buscar:"
+
+#: ../src/schematic-view-menu.h:96
+msgid "Search a part within all the librarys"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:98
+msgid "_Log"
+msgstr "_Log"
+
+#: ../src/schematic-view-menu.h:98
+msgid "View the latest simulation log"
+msgstr "Ver el último log de simulación"
+
+#: ../src/schematic-view-menu.h:99
+msgid "N_etlist"
+msgstr "Lista d_e nodos"
+
+#: ../src/schematic-view-menu.h:99
+msgid "View the circuit netlist"
+msgstr "Ver el último listado de nodos simulado"
+
+#: ../src/schematic-view-menu.h:101
+msgid "_About"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:101
+#, fuzzy
+msgid "About Oregano"
+msgstr "Oregano"
+
+#: ../src/schematic-view-menu.h:102
+msgid "User's Manual"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:102
+msgid "Oregano User's Manual"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:104
+#, fuzzy
+msgid "Zoom _In"
+msgstr "Agrandar"
+
+#: ../src/schematic-view-menu.h:104
+msgid "Zoom in"
+msgstr "Agrandar"
+
+#: ../src/schematic-view-menu.h:105
+#, fuzzy
+msgid "Zoom _Out"
+msgstr "Encoger"
+
+#: ../src/schematic-view-menu.h:105
+msgid "Zoom out"
+msgstr "Encoger"
+
+#: ../src/schematic-view-menu.h:107
+msgid "Stretch to the left"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:109
+msgid "Stretch to the right"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:111
+msgid "Stretch the top"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:113
+msgid "Stretch the bottom"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:118
+msgid "_Node labels"
+msgstr "Etiquetas de los _nodos"
+
+#: ../src/schematic-view-menu.h:118
+msgid "Toggle node label visibility"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:120
+#, fuzzy
+msgid "_Parts"
+msgstr "Componentes"
+
+#: ../src/schematic-view-menu.h:120
+msgid "Toggle part browser visibility"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:122
+#, fuzzy
+msgid "_Grid"
+msgstr "Cuadrícula"
+
+#: ../src/schematic-view-menu.h:122
+msgid "Toggle grid visibility"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:124
+msgid "LogView"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:124
+msgid "Toggle log view visibility"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:129
+#, fuzzy
+msgid "Set the zoom to 50%"
+msgstr "Factor de zoom al 50%"
+
+#: ../src/schematic-view-menu.h:130
+#, fuzzy
+msgid "Set the zoom to 75%"
+msgstr "Factor de zoom al 75%"
+
+#: ../src/schematic-view-menu.h:131
+#, fuzzy
+msgid "Set the zoom to 100%"
+msgstr "Factor de zoom al 100%"
+
+#: ../src/schematic-view-menu.h:132
+#, fuzzy
+msgid "Set the zoom to 125%"
+msgstr "Factor de zoom al 125%"
+
+#: ../src/schematic-view-menu.h:133
+#, fuzzy
+msgid "Set the zoom to 150%"
+msgstr "Factor de zoom al 150%"
+
+#: ../src/schematic-view-menu.h:137
+msgid "Arrow"
+msgstr "Flecha"
+
+#: ../src/schematic-view-menu.h:137
+msgid "Select, move and modify objects"
+msgstr "Seleccione, mueva y modifique objetos"
+
+#: ../src/schematic-view-menu.h:138
+msgid "Text"
+msgstr "Texto"
+
+#: ../src/schematic-view-menu.h:138
+msgid "Put text on the schematic"
+msgstr "Poner texto en el esquemático"
+
+#: ../src/schematic-view-menu.h:139
+#, fuzzy
+msgid "Wire"
+msgstr "Cables"
+
+#: ../src/schematic-view-menu.h:139
+msgid "Draw wires"
+msgstr "Dibujar cables"
+
+#: ../src/schematic-view-menu.h:140
+msgid "Clamp"
+msgstr ""
+
+#: ../src/schematic-view-menu.h:140
+#, fuzzy
+msgid "Add voltage clamp"
+msgstr "Agregar punta de tensión"
+
+#: ../src/load-library.c:153
+#, c-format
+msgid "Could not find the requested symbol: %s\n"
+msgstr "No se pudo encontrar el sí­mbolo deseado: %s\n"
+
+#: ../src/load-library.c:168
+#, c-format
+msgid "Could not find the requested part: %s\n"
+msgstr "No se pudo encontrar el componente deseado: %s\n"
+
+#: ../src/load-schematic.c:280
+#, c-format
+msgid "Bad file format."
+msgstr "Formato de archivo inválido."
+
+#: ../src/load-schematic.c:288
+#, c-format
+msgid "Unknown parser error."
+msgstr "Error en el intérprete."
+
+#: ../src/splash.c:56
+msgid "Failed to spawn builder"
+msgstr ""
+
+#: ../src/oregano-config.c:105
+#, c-format
+msgid "Loading %s ..."
+msgstr "Cargando %s ..."
+
+#: ../src/oregano-config.c:141
+#, c-format
+msgid "Could not read the parts library: %s "
+msgstr "No se pudo abrir la biblioteca de componentes: %s"
+
+#: ../src/oregano-config.c:142
+#, fuzzy, c-format
+msgid ""
+"The file is probably corrupt. Please reinstall the parts library or Oregano "
+"and try again."
+msgstr ""
+"Posiblemente el archivo está corrupto. Reinstale la biblioteca\n"
+"de componentes de Oregano y pruebe de nuevo"
+
+#: ../src/sheet/plot-add-function.c:55 ../src/sheet/plot-add-function.c:61
+#: ../src/plot.c:363 ../src/plot.c:370
+msgid "Could not create plot window."
+msgstr "No se pudo crear la ventana de gráfico de curvas."
+
+#: ../src/sheet/plot-add-function.c:109
+msgid ""
+"<span weight=\"bold\" size=\"large\">Neither function, nor operators have "
+"been chosen</span>\n"
+"\n"
+"Please, take care to choose a function and their associated operators"
+msgstr ""
+
+#: ../src/sheet/textbox-item.c:84
+#, fuzzy
+msgid "_Edit the text..."
+msgstr "Editar el texto"
+
+#: ../src/sheet/textbox-item.c:84
+msgid "Edit the text"
+msgstr "Editar el texto"
+
+#: ../src/sheet/textbox-item.c:410
+msgid "Label"
+msgstr "Etiqueta"
+
+#: ../src/sheet/textbox-item.c:476
+msgid "Could not create textbox properties dialog"
+msgstr "No se pudo crear el diálogo de propiedades del texto"
+
+#: ../src/sheet/textbox-item.c:485
+#, fuzzy
+msgid "Could not create textbox properties dialog."
+msgstr "No se pudo crear el diálogo de propiedades del texto"
+
+#: ../src/sheet/sheet-item.c:235
+msgid "Cannot set SheetItem after creation."
+msgstr ""
+
+#: ../src/sheet/part-item.c:139
+#, fuzzy
+msgid "Modify object properties"
+msgstr "Modifica las propiedades del objeto"
+
+#: ../src/sheet/part-item.c:434 ../src/sheet/part-item.c:440
+#: ../src/sheet/part-item.c:570 ../src/sheet/part-item.c:577
+msgid "Could not create part properties dialog."
+msgstr "No se pudo crear el diálogo de propiedades del componente"
+
+#: ../src/sheet/part-item.c:618
+msgid "Designation"
+msgstr ""
+
+#: ../src/sheet/part-item.c:620
+#, fuzzy
+msgid "Template"
+msgstr "Simular"
+
+#: ../src/sheet/part-item.c:622
+msgid "Resistor"
+msgstr ""
+
+#: ../src/sheet/part-item.c:624
+msgid "Capacitor"
+msgstr ""
+
+#: ../src/sheet/part-item.c:626
+msgid "Inductor"
+msgstr ""
+
+#: ../src/sim-settings-gui.c:193
+msgid "Add new option"
+msgstr "Agregar nueva opción"
+
+#: ../src/sim-settings-gui.c:579 ../src/sim-settings-gui.c:585
+#: ../src/sim-settings-gui.c:612 ../src/sim-settings-gui.c:618
+#: ../src/sim-settings-gui.c:679 ../src/sim-settings-gui.c:687
+#: ../src/sim-settings-gui.c:697
+#, fuzzy
+msgid "SimulationSettings"
+msgstr "Parámetros de simulación"
+
+#: ../src/sim-settings-gui.c:580 ../src/sim-settings-gui.c:613
+#, fuzzy
+msgid "Failed to create netlist"
+msgstr "No se pudo crear la lista de nodos"
+
+#: ../src/sim-settings-gui.c:586 ../src/sim-settings-gui.c:619
+#, fuzzy
+msgid "No node in the schematic!"
+msgstr "Poner texto en el esquemático"
+
+#: ../src/sim-settings-gui.c:680
+msgid "Could not create simulation settings dialog"
+msgstr "No se pudo crear el diálogo de parámetros de la simulación"
+
+#: ../src/sim-settings-gui.c:688
+#, fuzzy
+msgid "Could not create simulation settings dialog due to missing "
+msgstr "No se pudo crear el diálogo de parámetros de la simulación"
+
+#: ../src/sim-settings-gui.c:698
+#, fuzzy
+msgid ""
+"Could not create simulation settings dialog due to missing \"toplevel\" "
+"widget in "
+msgstr "No se pudo crear el diálogo de parámetros de la simulación"
+
+#: ../src/sim-settings-gui.c:724
+msgid "Option"
+msgstr "Opción"
+
+#: ../src/sim-settings-gui.c:726
+msgid "Value"
+msgstr "Valor"
+
+#: ../src/engines/netlist-helper.c:403
+#, c-format
+msgid "At least one GND is required. Add at least one and try again."
+msgstr ""
+
+#: ../src/engines/netlist-helper.c:411
+#, fuzzy, c-format
+msgid "No test clamps found. Add at least one and try again."
+msgstr "No hay puntas de prueba. Abortando.\n"
+
+#: ../src/engines/netlist-helper.c:522
+#, fuzzy, c-format
+msgid "Could not find part in library, pin #%d."
+msgstr "No se pudo abrir la biblioteca de componentes: %s"
+
+#: ../src/engines/gnucap.c:349 ../src/engines/ngspice-watcher.c:366
+msgid "### Too few or none analysis found ###\n"
+msgstr "### No se recibieron resultados de la simulación ###\n"
+
+#: ../src/engines/gnucap.c:410
+msgid "Unable to execute GnuCap."
+msgstr "No se pudo encontrar el ejecutable de GnuCap."
+
+#: ../src/engines/gnucap.c:425 ../src/engines/engine.c:40
+msgid "None"
+msgstr "Ninguno"
+
+#: ../src/engines/gnucap.c:619 ../src/plot.c:127
+msgid "time"
+msgstr "tiempo"
+
+#: ../src/engines/gnucap.c:624 ../src/engines/gnucap.c:634
+#: ../src/engines/ngspice-analysis.c:162 ../src/engines/ngspice-analysis.c:164
+#: ../src/engines/ngspice-analysis.c:268 ../src/engines/ngspice-analysis.c:803
+#: ../src/plot.c:123
+msgid "voltage"
+msgstr "tensión"
+
+#: ../src/engines/gnucap.c:629 ../src/engines/ngspice-analysis.c:266
+#: ../src/engines/ngspice-analysis.c:774 ../src/engines/ngspice-analysis.c:902
+#: ../src/plot.c:129
+msgid "frequency"
+msgstr "frecuencia"
+
+#: ../src/engines/gnucap.c:673
+#, fuzzy
+msgid "No analysis"
+msgstr "Análisis de ruido"
+
+#: ../src/engines/gnucap.c:676
+msgid "Unknown analysis"
+msgstr "Análisis desconocido"
+
+#: ../src/engines/engine.c:41
+msgid "Operating Point"
+msgstr "Punto de operación"
+
+#: ../src/engines/engine.c:42
+msgid "Transient Analysis"
+msgstr "Análisis en el tiempo"
+
+#: ../src/engines/engine.c:43
+msgid "DC transfer characteristic"
+msgstr "Transferencia Característica en CC"
+
+#: ../src/engines/engine.c:44
+msgid "AC Analysis"
+msgstr "Análisis para CA"
+
+#: ../src/engines/engine.c:45
+msgid "Transfer Function"
+msgstr "Función de transferencia"
+
+#: ../src/engines/engine.c:46
+msgid "Distortion Analysis"
+msgstr "Análisis de la distorsión"
+
+#: ../src/engines/engine.c:47
+msgid "Noise Spectral Density Curves"
+msgstr ""
+
+#: ../src/engines/engine.c:48
+msgid "Pole-Zero Analysis"
+msgstr "Análisis de polos y ceros"
+
+#: ../src/engines/engine.c:49
+msgid "Sensitivity Analysis"
+msgstr "Análisis de Sensibilidad"
+
+#: ../src/engines/engine.c:50
+#, fuzzy
+msgid "Fourier analysis"
+msgstr "Análisis de ruido"
+
+#: ../src/engines/engine.c:51
+msgid "Unknown Analysis"
+msgstr "Análisis desconocido"
+
+#: ../src/engines/engine.c:56
+msgid "gnucap"
+msgstr ""
+
+#: ../src/engines/engine.c:57
+#, fuzzy
+msgid "spice3"
+msgstr "NgSpice"
+
+#: ../src/engines/engine.c:58
+#, fuzzy
+msgid "ngspice"
+msgstr "NgSpice"
+
+#: ../src/engines/ngspice-watcher.c:553
+#, fuzzy
+msgid "Unable to execute NgSpice."
+msgstr "No se pudo encontrar el ejecutable de GnuCap."
+
+#. FIXME ask for swapping or cancel simulation
+#: ../src/engines/ngspice.c:236
+msgid "Transient: Start time is after Stop time - fix this.stop figure\n"
+msgstr ""
+
+#: ../src/engines/ngspice.c:416
+msgid "ngspice solving"
+msgstr ""
+
+#: ../src/engines/ngspice-analysis.c:904 ../src/engines/ngspice-analysis.c:906
+#: ../src/plot.c:133
+msgid "psd"
+msgstr ""
+
+#: ../src/schematic-view.c:184 ../src/schematic-view.c:191
+#: ../src/schematic-view.c:278 ../src/schematic-view.c:285
+#: ../src/schematic-view.c:406 ../src/schematic-view.c:428
+#: ../src/schematic-view.c:563 ../src/schematic-view.c:715
+#: ../src/schematic-view.c:718 ../src/schematic-view.c:870
+#: ../src/schematic-view.c:873 ../src/schematic-view.c:1198
+#: ../src/schematic-view.c:1205 ../src/schematic-view.c:1722
+#: ../src/schematic-view.c:1736
+#, fuzzy
+msgid "SchematicView"
+msgstr "Gráfica del esquemático"
+
+#: ../src/schematic-view.c:185 ../src/schematic-view.c:279
+msgid "Could not create properties dialog"
+msgstr "No se pudo crear el diálogo de propiedade"
+
+#: ../src/schematic-view.c:192 ../src/schematic-view.c:286
+#, fuzzy
+msgid "Could not create properties dialog due to issues with "
+msgstr "No se pudo crear el diálogo de propiedade"
+
+#: ../src/schematic-view.c:242
+#, fuzzy
+msgid "Export to..."
+msgstr "Exportar gráfica"
+
+#: ../src/schematic-view.c:329
+msgid ""
+"<span weight=\"bold\" size=\"large\">No filename has been chosen</span>\n"
+"\n"
+"Please, click on the tag, beside, to select an output."
+msgstr ""
+
+#: ../src/schematic-view.c:404
+#, fuzzy, c-format
+msgid "Could not load file \"file://%s\""
+msgstr "No se pudo cargar el archivo"
+
+#: ../src/schematic-view.c:426
+#, fuzzy, c-format
+msgid "Could not load recent file \"%s\""
+msgstr "No se pudo cargar el archivo"
+
+#: ../src/schematic-view.c:474
+#, fuzzy, c-format
+msgid ""
+"Could not load recent file \"%s\"\n"
+"%s"
+msgstr "No se pudo cargar el archivo"
+
+#: ../src/schematic-view.c:475 ../src/schematic-view.c:484
+#: ../src/schematic-view.c:491
+#, fuzzy
+msgid "Could not load recent file"
+msgstr "No se pudo cargar el archivo"
+
+#: ../src/schematic-view.c:483
+#, c-format
+msgid "Can not handle file with mimetype \"%s\""
+msgstr ""
+
+#: ../src/schematic-view.c:558 ../src/schematic-view.c:1312
+#: ../src/schematic-view.c:1316
+msgid "Untitled.oregano"
+msgstr "SinNombre.oregano"
+
+#: ../src/schematic-view.c:564
+#, fuzzy
+msgid "Failed to save schematic file."
+msgstr "No se pudo guardar el archivo del esquemático"
+
+#: ../src/schematic-view.c:716 ../src/schematic-view.c:871
+#, fuzzy
+msgid "Could not create a netlist."
+msgstr "No se pudo crear la lista de nodos"
+
+#: ../src/schematic-view.c:719 ../src/schematic-view.c:874
+msgid "Unexpect failure occured."
+msgstr ""
+
+#: ../src/schematic-view.c:1199
+msgid "Failed to spawn builder object."
+msgstr ""
+
+#: ../src/schematic-view.c:1206
+#, fuzzy
+msgid "Could not create main window from file."
+msgstr "No se pudo crear la ventana de gráfico de curvas."
+
+#: ../src/schematic-view.c:1317
 msgid "Untitled.netlist"
 msgstr "SinNombre.netlist"
 
-#: ../src/schematic-view.c:1504
+#: ../src/schematic-view.c:1464
 #, fuzzy, c-format
 msgid ""
 "<span weight=\"bold\" size=\"large\">Save changes to schematic %s before "
@@ -511,717 +981,573 @@ msgstr ""
 "\n"
 "¿Desea guardarlos ahora?"
 
-#: ../src/schematic-view.c:1516
+#: ../src/schematic-view.c:1472
 msgid "Close _without Saving"
 msgstr "Cerrar _sin Guardar"
 
-#: ../src/schematic-view.c:2434 ../src/schematic-view.c:2445
-msgid "Could not create the log window"
+#: ../src/schematic-view.c:1723 ../src/schematic-view.c:1737
+#, fuzzy
+msgid "Could not create the log window."
 msgstr "No se pudo crear la ventana de informes."
 
-#: ../src/schematic-view-ui.h:38
-msgid "_New"
-msgstr "_Nuevo"
-
-#: ../src/schematic-view-ui.h:38 ../src/schematic-view-ui.h:264
-msgid "Create a new schematic"
-msgstr "Crear un nuevo esquemático"
-
-#: ../src/schematic-view-ui.h:47
-msgid "Page Properties"
-msgstr "Propiedades de la página"
-
-#: ../src/schematic-view-ui.h:48
-msgid "Set print properties"
-msgstr "Propiedades de Impresión"
-
-#: ../src/schematic-view-ui.h:56 ../src/print.c:367 ../src/plot.c:150
-#: ../src/netlist-editor.c:193
-msgid "Print Preview"
-msgstr "Vista Preliminar"
-
-#: ../src/schematic-view-ui.h:57
-msgid "Preview the schematic before printing"
-msgstr "Previsualizar el esquemático antes de imprimir"
-
-#: ../src/schematic-view-ui.h:65
-msgid "Schematic _Properties..."
-msgstr "_Propiedades del esquemático"
-
-#: ../src/schematic-view-ui.h:66
-msgid "Modify the schematic's properties"
-msgstr "Modificar las propiedades del esquemático"
-
-#: ../src/schematic-view-ui.h:95
-msgid "_Delete"
-msgstr "_Borrar"
-
-#: ../src/schematic-view-ui.h:96
-msgid "Delete the selection"
-msgstr "Borrar la selección"
-
-#: ../src/schematic-view-ui.h:102
-msgid "_Rotate"
-msgstr "_Rotar"
-
-#: ../src/schematic-view-ui.h:103
-msgid "Rotate the selection clockwise"
-msgstr "Rotar la selección en sentido horario"
-
-#: ../src/schematic-view-ui.h:109
-msgid "Flip _horizontally"
-msgstr "Espejar _horizontalmente"
-
-#: ../src/schematic-view-ui.h:110
-msgid "Flip the selection horizontally"
-msgstr "Espeja horizontalmente la selección"
-
-#: ../src/schematic-view-ui.h:116
-msgid "Flip _vertically"
-msgstr "Espejar _verticalmente"
-
-#: ../src/schematic-view-ui.h:117
-msgid "Flip the selection vertically"
-msgstr "Espeja verticalmente la selección"
-
-#: ../src/schematic-view-ui.h:124
-msgid "Select _all"
-msgstr "Seleccionar _todo"
-
-#: ../src/schematic-view-ui.h:125
-msgid "Select all objects on the sheet"
-msgstr "Selecciona todos los objetos de la hoja"
-
-#: ../src/schematic-view-ui.h:131
-msgid "Deselect a_ll"
-msgstr "Deseleccionar t_odo"
-
-#: ../src/schematic-view-ui.h:132
-msgid "Deselect the selected objects"
-msgstr "Deselecciona los objetos seleccionados"
-
-#: ../src/schematic-view-ui.h:140
-msgid "_Object Properties..."
-msgstr "Propiedades del _objeto..."
-
-#: ../src/schematic-view-ui.h:141
-msgid "Modify the object's properties"
-msgstr "Modifica las propiedades del objeto"
-
-#: ../src/schematic-view-ui.h:146
-msgid "Simulation S_ettings..."
-msgstr "Parámetros de la _Simulación"
-
-#: ../src/schematic-view-ui.h:147
-msgid "Edit the simulation settings"
-msgstr "Editar los parámetros de simulación"
-
-#: ../src/schematic-view-ui.h:162
-msgid "Run a simulation"
-msgstr "Empezar la simulación"
-
-#: ../src/schematic-view-ui.h:169
-msgid "_Generate netlist"
-msgstr "_Generar listado de nodos"
-
-#: ../src/schematic-view-ui.h:170
-msgid "Generate a netlist"
-msgstr "Generar un listado de nodos"
-
-#: ../src/schematic-view-ui.h:177
-msgid "50%"
-msgstr "50%"
-
-#: ../src/schematic-view-ui.h:178
-msgid "Set the zoom factor to 50%"
-msgstr "Factor de zoom al 50%"
-
-#: ../src/schematic-view-ui.h:179
-msgid "75%"
-msgstr "75%"
-
-#: ../src/schematic-view-ui.h:180
-msgid "Set the zoom factor to 75%"
-msgstr "Factor de zoom al 75%"
-
-#. GNOMEUIINFO_ITEM_NONE(N_("50%"),
-#. N_("Set the zoom factor to 50%"), plot_zoom_50_cmd),
-#. GNOMEUIINFO_ITEM_NONE(N_("75%"),
-#. N_("Set the zoom factor to 75%"), plot_zoom_75_cmd),
-#: ../src/schematic-view-ui.h:181 ../src/plot.c:167
-msgid "100%"
-msgstr "100%"
-
-#: ../src/schematic-view-ui.h:182 ../src/plot.c:168
-msgid "Set the zoom factor to 100%"
-msgstr "Factor de zoom al 100%"
-
-#: ../src/schematic-view-ui.h:184
-msgid "125%"
-msgstr "125%"
-
-#: ../src/schematic-view-ui.h:185
-msgid "Set the zoom factor to 125%"
-msgstr "Factor de zoom al 125%"
-
-#: ../src/schematic-view-ui.h:186
-msgid "150%"
-msgstr "150%"
-
-#: ../src/schematic-view-ui.h:187
-msgid "Set the zoom factor to 150%"
-msgstr "Factor de zoom al 150%"
-
-#: ../src/schematic-view-ui.h:196
-msgid "Zoom"
-msgstr "Zoom"
-
-#: ../src/schematic-view-ui.h:202
-msgid "_Log"
-msgstr "_Log"
-
-#: ../src/schematic-view-ui.h:202
-msgid "View the latest simulation log"
-msgstr "Ver el último log de simulación"
-
-#: ../src/schematic-view-ui.h:205
-msgid "_Node labels"
-msgstr "Etiquetas de los _nodos"
-
-#: ../src/schematic-view-ui.h:205
-msgid "Show or hide node labels"
-msgstr "Mostrar o esconder el las eqtiquetas de los nodos"
-
-#: ../src/schematic-view-ui.h:207
-msgid "N_etlist"
-msgstr "Lista d_e nodos"
-
-#: ../src/schematic-view-ui.h:208
-msgid "View the circuit netlist"
-msgstr "Ver el último listado de nodos simulado"
-
-#: ../src/schematic-view-ui.h:240
-msgid "_Contents"
-msgstr "_Contenido"
-
-#: ../src/schematic-view-ui.h:240
-msgid "Show program help"
-msgstr "Mostrar ayuda del programa"
-
-#: ../src/schematic-view-ui.h:254
-msgid "_Tools"
-msgstr "_Herramientas"
-
-#: ../src/schematic-view-ui.h:264
-msgid "New"
-msgstr "Nuevo"
-
-#: ../src/schematic-view-ui.h:267
-msgid "Open"
-msgstr "Abrir"
-
-#: ../src/schematic-view-ui.h:267
-msgid "Open an existing schematic"
-msgstr "Abrir un esquemático existente"
-
-#: ../src/schematic-view-ui.h:270
-msgid "Save"
-msgstr "Guardar"
-
-#: ../src/schematic-view-ui.h:270
-msgid "Save the schematic"
-msgstr "Guardar el esquemático"
-
-#: ../src/schematic-view-ui.h:285
-msgid "Cut the selection to the clipboard"
-msgstr "Llevar la selección al portapapeles"
-
-#: ../src/schematic-view-ui.h:288
-msgid "Copy the selection to the clipboard"
-msgstr "Copiar la selección al portapapeles"
-
-#: ../src/schematic-view-ui.h:291 ../src/schematic-view-ui.h:404
-msgid "Paste"
-msgstr "Pegar"
-
-#: ../src/schematic-view-ui.h:291
-msgid "Paste the clipboard"
-msgstr "Pegar el contenido del portapapeles"
-
-#: ../src/schematic-view-ui.h:301
-msgid "Arrow"
-msgstr "Flecha"
-
-#: ../src/schematic-view-ui.h:302
-msgid "Select, move and modify objects"
-msgstr "Seleccione, mueva y modifique objetos"
-
-#: ../src/schematic-view-ui.h:307
-msgid "Text"
-msgstr "Texto"
-
-#: ../src/schematic-view-ui.h:308
-msgid "Put text on the schematic"
-msgstr "Poner texto en el esquemático"
-
-#: ../src/schematic-view-ui.h:313
-msgid "Wires"
-msgstr "Cables"
-
-#: ../src/schematic-view-ui.h:314
-msgid "Draw wires"
-msgstr "Dibujar cables"
-
-#: ../src/schematic-view-ui.h:330
-msgid "Add Voltage Clamp"
-msgstr "Agregar punta de tensión"
-
-#: ../src/schematic-view-ui.h:331
-msgid "Add a Voltage test clamp"
-msgstr "Agrega una punta de pruebas de tensión"
-
-#: ../src/schematic-view-ui.h:336
-msgid "Simulate"
-msgstr "Simular"
-
-#: ../src/schematic-view-ui.h:337
-msgid "Run a simulation for the current schematic"
-msgstr "Lanzar una simulación del esquemático en uso"
-
-#: ../src/schematic-view-ui.h:342 ../src/schematic-view-ui.h:343
-msgid "Simulation settings"
-msgstr "Parámetros de simulación"
-
-#: ../src/schematic-view-ui.h:361
-msgid "Show or hide the part browser"
-msgstr "Mostrar o esconder el visor de componentes"
-
-#: ../src/schematic-view-ui.h:366
-msgid "Grid"
-msgstr "Cuadrícula"
-
-#: ../src/schematic-view-ui.h:367
-msgid "Turn on/off the grid"
-msgstr "Cuadrícula on/off"
-
-#: ../src/schematic-view-ui.h:372 ../src/schematic-view-ui.h:373
-msgid "Zoom in"
-msgstr "Agrandar"
-
-#: ../src/schematic-view-ui.h:378 ../src/schematic-view-ui.h:379
-msgid "Zoom out"
-msgstr "Encoger"
-
-#: ../src/schematic-view-ui.h:405
-msgid "Paste the contents of the clipboard to the sheet"
-msgstr "Pega los contenidos del portapapeles al esquemático en uso"
-
-#: ../src/print.c:297
-msgid "Print"
-msgstr "Imprimir"
-
-#: ../src/print.c:304
-msgid "Pages"
-msgstr "Páginas"
-
-#: ../src/print.c:339
-msgid "Can't get paper info! .. getting default!"
-msgstr "No se pudo obtener información del papel .. Usando default!"
-
-#: ../src/print.c:353
-msgid "Could not create font for printing."
-msgstr "No se pudo crear la fuente de texto para imprimir"
-
-#: ../src/print.c:372
-msgid "Printing failed."
-msgstr "Fallo de impresión"
-
-#: ../src/plot.c:61 ../src/plot.c:62
-msgid "Sans 10"
-msgstr "Sans 10"
-
-#: ../src/plot.c:63
-msgid "Sans 8"
-msgstr "Sans 8"
-
-#: ../src/plot.c:151
-msgid "Preview the plot before printing"
-msgstr "Previsualizar el esquemático antes de imprimir"
-
-#: ../src/plot.c:153
-msgid "Export plot"
-msgstr "Exportar gráfica"
-
-#: ../src/plot.c:154
-msgid "Show the export menu"
-msgstr "Mostrar el menú para exportar"
-
-#: ../src/plot.c:155
-msgid "Add Function"
-msgstr "Agregar Función"
-
-#: ../src/plot.c:156
-msgid "Add new function to the graph"
-msgstr "Agregar una nueva función al gráfico"
-
-#: ../src/plot.c:180
-msgid "_Preferences..."
-msgstr "_Preferencias..."
-
-#: ../src/plot.c:182
-msgid "Show crosshairs"
-msgstr "Mostrar cruces"
-
-#: ../src/plot.c:183
-msgid "_Zoom"
-msgstr "_Zoom"
-
-#: ../src/plot.c:190
-msgid "Schematic Plot"
-msgstr "Gráfica del esquemático"
-
-#: ../src/plot.c:196
-msgid "_File"
-msgstr "_Archivo"
-
-#: ../src/plot.c:197
-msgid "_Plot"
-msgstr "_Graficar"
+#: ../src/settings.c:100
+#, fuzzy
+msgid "Engine <span weight=\"bold\" size=\"large\">"
+msgstr "<span weight=\"bold\" size=\"x-large\">Error no esperado!!!</span>"
+
+#: ../src/settings.c:102
+#, fuzzy
+msgid ""
+"</span> not found\n"
+"The engine is unable to locate the external program."
+msgstr "El Motor fue incapaz de localizar el programa externo."
+
+#: ../src/settings.c:104
+msgid "Warning"
+msgstr "Aviso"
+
+#: ../src/settings.c:149
+#, c-format
+msgid ""
+"No engine allowing analysis is available.\n"
+"You need to install at least one engine ! \n"
+"spice3, ngspice or gnucap."
+msgstr ""
+
+#: ../src/settings.c:152
+#, fuzzy
+msgid "Could not create engine settings dialog"
+msgstr "No se pudo crear el diálogo deconfiguración"
+
+#: ../src/settings.c:157 ../src/settings.c:173 ../src/settings.c:180
+msgid "Could not create settings dialog"
+msgstr "No se pudo crear el diálogo deconfiguración"
+
+#: ../src/oregano.c:178
+#, c-format
+msgid "Failed to spawn splash-screen '%s''. Code %i - %s"
+msgstr ""
+
+#: ../src/oregano.c:190
+#, fuzzy
+msgid ""
+"Could not find a parts library.\n"
+"\n"
+"Supposed to be in "
+msgstr "No se pudo abrir la biblioteca de componentes: %s"
+
+#: ../src/oregano.c:221
+msgid "Welcome to Oregano"
+msgstr "Bienvenido a Oregano"
+
+#: ../src/plot.c:131
+#, fuzzy
+msgid "current"
+msgstr "Intensidad"
 
 #. Simulation failed?
-#: ../src/plot.c:330
+#: ../src/plot.c:240 ../src/plot.c:260
 msgid "The simulation produced no data!!\n"
 msgstr "¡¡No hay datos de la simulación!!\n"
 
-#: ../src/plot.c:340 ../src/plot.c:574
+#: ../src/plot.c:272 ../src/plot.c:530
 #, c-format
 msgid "Plot - %s"
 msgstr "Gráfica - %s"
 
-#: ../src/plot.c:349
+#: ../src/plot.c:281
 msgid "Nodes"
 msgstr "Nodos"
 
-#: ../src/plot.c:352 ../src/plot.c:636
+#: ../src/plot.c:285 ../src/plot.c:619
 msgid "Functions"
 msgstr "Funciones"
 
 #
-#: ../src/plot.c:424
+#: ../src/plot.c:356
 msgid "Oregano - Plot"
 msgstr "Oregano - Ventana de gráfico"
 
-#: ../src/plot.c:436 ../src/plot.c:443
-msgid "Could not create plot window."
-msgstr "No se pudo crear la ventana de gráfico de curvas."
+#. add Add Function menuitem
+#: ../src/plot.c:396
+msgid "Add Function"
+msgstr "Agregar Función"
 
-#: ../src/plot.c:659
+#: ../src/plot.c:404
+#, fuzzy
+msgid "Close"
+msgstr "_Cerrar"
+
+#. Installation of the menu in the menubar
+#: ../src/plot.c:410
+#, fuzzy
+msgid "File"
+msgstr "_Archivo"
+
+#: ../src/plot.c:643
 msgid "TRANSFER"
 msgstr "TRANSFERENCIA"
 
-#: ../src/plot.c:691 ../src/plot.c:698
-msgid "Could not create plot export window."
-msgstr "No se pudo crear la ventana de exportación."
+#~ msgid "<b>AC Analysis Options</b>"
+#~ msgstr "<b>Opciones para análisis AC</b>"
 
-#. if (gtk_toggle_button_get_active (GTK_TOGGLE_BUTTON (export_png)))
-#. format = GTK_CAIRO_PLOT_VIEW_SAVE_PNG;
-#. else
-#. format = GTK_CAIRO_PLOT_VIEW_SAVE_PS;
-#: ../src/plot.c:719
-msgid "Save PNG"
-msgstr "Guardar PNG"
+#~ msgid "<b>Type</b>"
+#~ msgstr "<b>Tipo</b>"
 
-#: ../src/part-browser.c:135 ../src/part-browser.c:614
-msgid ""
-"Gtk version 2.2 does not support GtkTreeModelFilter...\n"
-"Filtering disable!"
-msgstr ""
-"Gtk versión 2.2 no soporta GtkTreeModelFilter...\n"
-"Filtrado de componentes desactivado!"
+#~ msgid "Edit Clamp properties"
+#~ msgstr "Editar las propiedades de la punta"
 
-#: ../src/part-browser.c:187 ../src/part-browser.c:401
-msgid "Unable to load required part"
-msgstr "No se pudo cargar el componente requerido"
+#~ msgid "Imaginary part"
+#~ msgstr "Parte imaginaria"
 
-#: ../src/part-browser.c:499 ../src/part-browser.c:507
-msgid "Could not create part browser"
-msgstr "No se pudo crear el visor de componentes"
+#~ msgid "Magnitude"
+#~ msgstr "Magnitud"
 
-#: ../src/oregano-config.c:123
-#, c-format
-msgid "Loading %s ..."
-msgstr "Cargando %s ..."
+#~ msgid "Phase"
+#~ msgstr "Fase"
 
-#: ../src/oregano-config.c:164
-#, c-format
-msgid "Could not read the parts library: %s "
-msgstr "No se pudo abrir la biblioteca de componentes: %s"
+#~ msgid "Real part"
+#~ msgstr "Parte real"
 
-#: ../src/oregano-config.c:166
-msgid ""
-"The file is probably corrupt. Please reinstall the parts\n"
-"library or Oregano and try again."
-msgstr ""
-"Posiblemente el archivo está corrupto. Reinstale la biblioteca\n"
-"de componentes de Oregano y pruebe de nuevo"
+#~ msgid "Use decibel scale"
+#~ msgstr "Usar escala en decibeles"
 
-#: ../src/engines/netlist.c:436
-msgid "No ground node. Aborting.\n"
-msgstr "No hay ningún nodo a tierra. Abortando.\n"
+#~ msgid "Voltage"
+#~ msgstr "Tensión"
 
-#: ../src/engines/netlist.c:441
-msgid ""
-"Possibly due to a faulty circuit schematic. Please check that\n"
-"you have a ground node and try again."
-msgstr ""
-"Posiblemente debido a un error en el esquemático. Compruebe que exista\n"
-"un nodo a tierra y vuelva a intentarlo."
+#~ msgid "Clear"
+#~ msgstr "Limpiar"
 
-#: ../src/engines/netlist.c:450
-msgid "No test clamps found. Aborting.\n"
-msgstr "No hay puntas de prueba. Abortando.\n"
+#~ msgid "Oregano Log Window"
+#~ msgstr "Ventana de Errores de Oregano"
 
-#: ../src/engines/netlist.c:455
-msgid ""
-"Possibly due to a faulty circuit schematic. Please check that\n"
-"you have one o more test clamps and try again."
-msgstr ""
-"Posiblemente debido a un error en el esquemático. Compruebe que haya\n"
-"una o más puntas de prueba y vuelva a intentarlo."
+#~ msgid "<b>Alignment</b>"
+#~ msgstr "<b>Alineación</b>"
 
-#: ../src/engines/gnucap.c:299
-msgid "### Too few or none analysis found ###\n"
-msgstr "### No se recibieron resultados de la simulación ###\n"
+#~ msgid "Center Horizontally"
+#~ msgstr "Centrar horizontalmente"
 
-#: ../src/engines/gnucap.c:366
-msgid "Unable to execute GnuCap."
-msgstr "No se pudo encontrar el ejecutable de GnuCap."
+#~ msgid "Center Vertically"
+#~ msgstr "Centrar verticalmente"
 
-#: ../src/engines/gnucap.c:383
-msgid "None"
-msgstr "Ninguno"
+#~ msgid "Fit to page"
+#~ msgstr "Ajustar a la página"
 
-#: ../src/engines/gnucap.c:586
-msgid "time"
-msgstr "tiempo"
+#~ msgid "<b>Preview</b>"
+#~ msgstr "<b>Vista previa</b>"
 
-#: ../src/engines/gnucap.c:591 ../src/engines/gnucap.c:601
-msgid "voltage"
-msgstr "tensión"
+#~ msgid "Library:"
+#~ msgstr "Biblioteca:"
 
-#: ../src/engines/gnucap.c:596
-msgid "frequency"
-msgstr "frecuencia"
+#~ msgid "Place"
+#~ msgstr "Insertar"
 
-#: ../src/engines/gnucap.c:645
-msgid "Unknown analysis"
-msgstr "Análisis desconocido"
+#~ msgid "Press this button to place the selected part"
+#~ msgstr "Pulse este botón para insertar el componente seleccionado"
 
-#: ../src/engines/gnucap.c:693
-msgid "abort"
-msgstr "abortar"
+#~ msgid "Select which library to use"
+#~ msgstr "Seleccione bibioteca a usar"
 
-#: ../src/engines/engine.c:32
-msgid "Operating Point"
-msgstr "Punto de operación"
+#~ msgid "Part Properties"
+#~ msgstr "Propiedades del componente"
 
-#: ../src/engines/engine.c:33
-msgid "Transient Analysis"
-msgstr "Análisis en el tiempo"
+#~ msgid "<b>Plot</b>"
+#~ msgstr "<b>Gráfica</b>"
 
-#: ../src/engines/engine.c:34
-msgid "DC transfer characteristic"
-msgstr "Transferencia Característica en CC"
+#~ msgid "<b>Variables</b>"
+#~ msgstr "<b>Variables</b>"
 
-#: ../src/engines/engine.c:35
-msgid "AC Analysis"
-msgstr "Análisis para CA"
+#~ msgid "Plot"
+#~ msgstr "Graficar"
 
-#: ../src/engines/engine.c:36
-msgid "Transfer Function"
-msgstr "Función de transferencia"
+#~ msgid "Region"
+#~ msgstr "Región"
 
-#: ../src/engines/engine.c:37
-msgid "Distortion Analysis"
-msgstr "Análisis de la distorsión"
+#~ msgid "Shift"
+#~ msgstr "Mover"
 
-#: ../src/engines/engine.c:38
-msgid "Noise Analysis"
-msgstr "Análisis de ruido"
+#~ msgid "    "
+#~ msgstr "    "
 
-#: ../src/engines/engine.c:39
-msgid "Pole-Zero Analysis"
-msgstr "Análisis de polos y ceros"
+#~ msgid "<b>Comments</b>"
+#~ msgstr "<b>Comentarios</b>"
 
-#: ../src/engines/engine.c:40
-msgid "Sensitivity Analysis"
-msgstr "Análisis de Sensibilidad"
+#~ msgid "Author:"
+#~ msgstr "Autor:"
 
-#: ../src/engines/engine.c:41
-msgid "Unknown Analysis"
-msgstr "Análisis desconocido"
+#~ msgid "Properties"
+#~ msgstr "Propiedades"
 
-#: ../src/netlist-editor.c:172
-#, c-format
-msgid "Netlist for %s"
-msgstr "Lista de nodos para %s"
+#~ msgid "Title:"
+#~ msgstr "Tí­tulo:"
 
-#: ../src/netlist-editor.c:173
-#, c-format
-msgid "Author : %s"
-msgstr "Autor : %s"
+#~ msgid "\n"
+#~ msgstr "\n"
 
-#: ../src/netlist-editor.c:186
-msgid "Page %N of %Q"
-msgstr "Página %N de %Q"
+#~ msgid "<b>Data Paths</b>"
+#~ msgstr "<b>Rutas a datos</b>"
 
-#: ../src/netlist-editor.c:238 ../src/netlist-editor.c:274
-#, c-format
-msgid "The file %s could not be saved"
-msgstr "No se pudo guardar el archivo %s"
+#~ msgid "<b>Engine</b>"
+#~ msgstr "<b>Motor</b>"
 
-#: ../src/netlist-editor.c:239 ../src/netlist-editor.c:275
-msgid "Could not save temporary netlist file"
-msgstr "No se pudo guardar el archivo temporal con la lista de nodos"
+#~ msgid "<b>Executable Path</b>"
+#~ msgstr "<b>Ejecutables</b>"
 
-#: ../src/netlist-editor.c:311
-msgid "Could not create the netlist dialog"
-msgstr "No se pudo crear el diálogo dela lista de nodos"
+#~ msgid "<b>File Format</b>"
+#~ msgstr "<b>Formato de fichero</b>"
 
-#. gettext support
-#: ../src/netlist-editor.c:390
-#, c-format
-msgid "The file %s could not be found."
-msgstr "No se puedo encontrar el archivo %s."
+#~ msgid "<b>User Interface</b>"
+#~ msgstr "<b>Interfaz de usuario</b>"
 
-#: ../src/netlist-editor.c:391
-msgid "Could not find the required file"
-msgstr "No se pudo encontrar el archivo especificado"
+#~ msgid "Automatically show log windows after simulation"
+#~ msgstr "Mostrar la ventana de log después de cada simulación"
 
-#: ../src/main.c:107
-msgid "Enables some debugging functions"
-msgstr "Habilita algunas funciones de depuración"
+#~ msgid "Compress saved files"
+#~ msgstr "Comprimir los archivos guardados"
 
-#: ../src/main.c:107
-msgid "LEVEL"
-msgstr "NIVEL"
+#~ msgid "Grid size[px]   "
+#~ msgstr "Tamaño de cuadrí­cula [px] "
 
-#: ../src/main.c:132
-msgid ""
-"You seem to be running Oregano without\n"
-"having it installed properly on your system.\n"
-"\n"
-"Please install Oregano and try again."
-msgstr ""
-"Parece que está ejecutando Oregano sin\n"
-"haberlo instalado correctamente en su sistema.\n"
-"\n"
-"Por favor instálelo correctamete e intente de nuevo"
+#~ msgid "Library"
+#~ msgstr "Biblioteca:"
 
-#: ../src/main.c:155
-msgid ""
-"Could not find a parts library.\n"
-"\n"
-"This is probably due to a faulty installation\n"
-"of Oregano. Please check your installation."
-msgstr ""
-"No se pudo encontrar la biblioteca de componentes.\n"
-"\n"
-"Es probable que sea debido a una instalación errónea\n"
-"de Oregano. Por favor revise su instalación."
+#~ msgid "Model"
+#~ msgstr "Modelo"
 
-#: ../src/main.c:212
-msgid "Welcome to Oregano"
-msgstr "Bienvenido a Oregano"
+#~ msgid "Paths"
+#~ msgstr "Rutas"
 
-#: ../src/load-schematic.c:261
-msgid "Bad file format."
-msgstr "Formato de archivo inválido."
+#~ msgid "Realtime update of selection (slow)"
+#~ msgstr "Actualización en tiempo real de la selección (lento)"
 
-#: ../src/load-schematic.c:271
-msgid "Unknown parser error."
-msgstr "Error en el intérprete."
+#~ msgid "Remove"
+#~ msgstr "Borrar"
 
-#: ../src/load-library.c:149
-#, c-format
-msgid "Could not find the requested symbol: %s\n"
-msgstr "No se pudo encontrar el sí­mbolo deseado: %s\n"
+#~ msgid "Select A File"
+#~ msgstr "Seleccionar Archivo"
 
-#: ../src/load-library.c:165
-#, c-format
-msgid "Could not find the requested part: %s\n"
-msgstr "No se pudo encontrar el componente deseado: %s\n"
+#~ msgid "Show the splash screen at application startup"
+#~ msgstr "Mostrar pantalla de presentación al inicio"
 
-#: ../src/file.c:50 ../src/file.c:90
-msgid "Oregano Files"
-msgstr "Archivos de Oregano"
+#~ msgid "TODO : Add FINDPATH for Engines"
+#~ msgstr "TODO : Agregar FINDPATH para Motores"
 
-#: ../src/file.c:52 ../src/file.c:92
-msgid "All Files"
-msgstr "Todos los archivos"
+#~ msgid "User Interface"
+#~ msgstr "Interfaz de usuario"
 
-#: ../src/file.c:55
-msgid "Open File"
-msgstr "Abrir archivo"
+#~ msgid "<b>AC</b>"
+#~ msgstr "<b>AC</b>"
 
-#: ../src/file.c:95
-msgid "Save File"
-msgstr "Guardar"
+#~ msgid "<b>DC Sweep</b>"
+#~ msgstr "<b>Fuente DC</b>"
 
-#: ../src/file.c:145
-msgid "Netlist File"
-msgstr "Archivo netlist"
+#~ msgid "<b>Fourier</b>"
+#~ msgstr "<b>Fourier</b>"
 
-#: ../src/file.c:221
-msgid "Open file"
-msgstr "Abrir archivo"
+#~ msgid "<b>Transient</b>"
+#~ msgstr "<b>Análisis en el tiempo</b>"
 
-#: ../src/file.c:271
-msgid "Save schematic as"
-msgstr "Guardar esquemático como"
+#~ msgid "Add new options"
+#~ msgstr "Agregar nuevas opciones"
 
-#: ../src/file.c:336
-msgid "Netlist filename"
-msgstr "Nombre del archivo netlist"
+#~ msgid "Add to list"
+#~ msgstr "Añadir a la lista"
 
-#: ../src/dialogs.c:126
-msgid ""
-"(c) 2003-2006 LUGFi\n"
-"(c) 1999-2001 Richard Hult"
-msgstr ""
-"(c) 2003-2006 LUGFi\n"
-"(c) 1999-2001, Richard Hult"
+#~ msgid "Analysis Options"
+#~ msgstr "Opciones"
 
-#: ../src/dialogs.c:141
-msgid "Schematic capture and circuit simulation.\n"
-msgstr "Preparación de esquemáticos y simulación de circuitos.\n"
+#~ msgid "Analysis Parameters"
+#~ msgstr "Parámetros del análisis"
 
-#: ../src/model/schematic.c:584
-#, c-format
-msgid "File %s does not exists."
-msgstr "El archivo %s no existe."
+#~ msgid "DEC"
+#~ msgstr "DEC"
 
-#: ../src/model/schematic.c:592 ../src/model/schematic.c:630
-#, c-format
-msgid "Unknown file format for %s."
-msgstr "Formato desconocido para %s."
+#~ msgid "Frequency"
+#~ msgstr "Frecuencia"
 
-#: ../src/model/schematic.c:611
-msgid "Load fails!."
-msgstr "¡Falló la carga!"
+#~ msgid "LIN"
+#~ msgstr "LIN"
 
-#: ../src/plot-add-function.c:48
-#, c-format
-msgid ""
-"The file %s could not be found. You might need to reinstall Oregano to fix "
-"this"
-msgstr ""
-"No se pudo encontrar el archivo %s.  Puede ser que sea necesario reinstalar "
-"Oregano para solucionarlo."
+#~ msgid "List of outputs"
+#~ msgstr "Lista de salidas"
 
-#: ../src/plot-add-function.c:50 ../src/plot-add-function.c:57
-msgid "Could not create plot window"
-msgstr "No se pudo crear la ventana de gráfico de curvas."
+#~ msgid "OCT"
+#~ msgstr "OCT"
+
+#~ msgid "Points"
+#~ msgstr "Puntos"
+
+#~ msgid "Source"
+#~ msgstr "Fuente"
+
+#~ msgid "Start"
+#~ msgstr "Comienzo"
+
+#~ msgid "Step"
+#~ msgstr "Paso"
+
+#~ msgid "Stop"
+#~ msgstr "Final"
+
+#~ msgid "Type"
+#~ msgstr "Tipo"
+
+#~ msgid "Use Initial Conditions"
+#~ msgstr "Usar Condiciones Iniciales"
+
+#~ msgid "Progress: None"
+#~ msgstr "Evolución: Ninguna"
+
+#~ msgid "<b>Text</b>"
+#~ msgstr "<b>Texto</b>"
+
+#~ msgid "Text Properties"
+#~ msgstr "Propiedades del texto"
+
+#~ msgid "Netlist View"
+#~ msgstr "Ver lista de nodos"
+
+#~ msgid "Edit the part's properties"
+#~ msgstr "Editar las propiedades del componente"
+
+#~ msgid ""
+#~ "The file %s could not be found. You might need to reinstall Oregano to "
+#~ "fix this."
+#~ msgstr ""
+#~ "El archivo %s no se pudo encontrar. Es posible que haga falta reinstalar "
+#~ "Oregano para solucionarlo."
+
+#~ msgid "Copy the object to the clipboard"
+#~ msgstr "Copiar el objeto al portapapeles"
+
+#~ msgid "Cut"
+#~ msgstr "Cortar"
+
+#~ msgid "Cut the object to the clipboard"
+#~ msgstr "Cortar el objeto al portapapeles"
+
+#~ msgid "Delete"
+#~ msgstr "Borrar"
+
+#~ msgid "Delete the object"
+#~ msgstr "Borrar el objeto"
+
+#~ msgid "Rotate"
+#~ msgstr "Rotar"
+
+#~ msgid "Rotate the selected objects 90 degrees clockwise"
+#~ msgstr "Rotar los objetos selecionados 90 grados en sentido horario"
+
+#~ msgid ""
+#~ "<span weight=\"bold\" size=\"large\">The simulation was aborted due to an "
+#~ "error.</span>\n"
+#~ "\n"
+#~ "Would you like to view the error log?"
+#~ msgstr ""
+#~ "<span weight=\"bold\" size=\"large\">La simulación ha finalizado debido a "
+#~ "un error.</span>\n"
+#~ "¿Quiere ver el log de errores?"
+
+#~ msgid "The simulation was aborted due to an error"
+#~ msgstr "La simulación ha finalizado debido a un error"
+
+#~ msgid "Engine executable not found"
+#~ msgstr "No se encontró el ejecutable del Motor"
+
+#~ msgid "Could not create the page properties dialog"
+#~ msgstr "No se pudo crear el diálogo de propiedade de la página"
+
+#~ msgid "Page Properties"
+#~ msgstr "Propiedades de la página"
+
+#~ msgid "Deselect a_ll"
+#~ msgstr "Deseleccionar t_odo"
+
+#~ msgid "50%"
+#~ msgstr "50%"
+
+#~ msgid "75%"
+#~ msgstr "75%"
+
+#~ msgid "100%"
+#~ msgstr "100%"
+
+#~ msgid "125%"
+#~ msgstr "125%"
+
+#~ msgid "150%"
+#~ msgstr "150%"
+
+#~ msgid "Zoom"
+#~ msgstr "Zoom"
+
+#~ msgid "Show or hide node labels"
+#~ msgstr "Mostrar o esconder el las eqtiquetas de los nodos"
+
+#~ msgid "_Contents"
+#~ msgstr "_Contenido"
+
+#~ msgid "Show program help"
+#~ msgstr "Mostrar ayuda del programa"
+
+#~ msgid "New"
+#~ msgstr "Nuevo"
+
+#~ msgid "Cut the selection to the clipboard"
+#~ msgstr "Llevar la selección al portapapeles"
+
+#~ msgid "Copy the selection to the clipboard"
+#~ msgstr "Copiar la selección al portapapeles"
+
+#~ msgid "Paste the clipboard"
+#~ msgstr "Pegar el contenido del portapapeles"
+
+#~ msgid "Add a Voltage test clamp"
+#~ msgstr "Agrega una punta de pruebas de tensión"
+
+#~ msgid "Simulation settings"
+#~ msgstr "Parámetros de simulación"
+
+#~ msgid "Show or hide the part browser"
+#~ msgstr "Mostrar o esconder el visor de componentes"
+
+#~ msgid "Turn on/off the grid"
+#~ msgstr "Cuadrícula on/off"
+
+#~ msgid "Paste the contents of the clipboard to the sheet"
+#~ msgstr "Pega los contenidos del portapapeles al esquemático en uso"
+
+#~ msgid "Pages"
+#~ msgstr "Páginas"
+
+#~ msgid "Can't get paper info! .. getting default!"
+#~ msgstr "No se pudo obtener información del papel .. Usando default!"
+
+#~ msgid "Could not create font for printing."
+#~ msgstr "No se pudo crear la fuente de texto para imprimir"
+
+#~ msgid "Printing failed."
+#~ msgstr "Fallo de impresión"
+
+#~ msgid "Sans 10"
+#~ msgstr "Sans 10"
+
+#~ msgid "Sans 8"
+#~ msgstr "Sans 8"
+
+#~ msgid "Preview the plot before printing"
+#~ msgstr "Previsualizar el esquemático antes de imprimir"
+
+#~ msgid "Show the export menu"
+#~ msgstr "Mostrar el menú para exportar"
+
+#~ msgid "Add new function to the graph"
+#~ msgstr "Agregar una nueva función al gráfico"
+
+#~ msgid "_Preferences..."
+#~ msgstr "_Preferencias..."
+
+#~ msgid "Show crosshairs"
+#~ msgstr "Mostrar cruces"
+
+#~ msgid "_Plot"
+#~ msgstr "_Graficar"
+
+#~ msgid "Could not create plot export window."
+#~ msgstr "No se pudo crear la ventana de exportación."
+
+#~ msgid "Save PNG"
+#~ msgstr "Guardar PNG"
+
+#~ msgid ""
+#~ "Gtk version 2.2 does not support GtkTreeModelFilter...\n"
+#~ "Filtering disable!"
+#~ msgstr ""
+#~ "Gtk versión 2.2 no soporta GtkTreeModelFilter...\n"
+#~ "Filtrado de componentes desactivado!"
+
+#~ msgid "No ground node. Aborting.\n"
+#~ msgstr "No hay ningún nodo a tierra. Abortando.\n"
+
+#~ msgid ""
+#~ "Possibly due to a faulty circuit schematic. Please check that\n"
+#~ "you have a ground node and try again."
+#~ msgstr ""
+#~ "Posiblemente debido a un error en el esquemático. Compruebe que exista\n"
+#~ "un nodo a tierra y vuelva a intentarlo."
+
+#~ msgid ""
+#~ "Possibly due to a faulty circuit schematic. Please check that\n"
+#~ "you have one o more test clamps and try again."
+#~ msgstr ""
+#~ "Posiblemente debido a un error en el esquemático. Compruebe que haya\n"
+#~ "una o más puntas de prueba y vuelva a intentarlo."
+
+#~ msgid "abort"
+#~ msgstr "abortar"
+
+#~ msgid "Netlist for %s"
+#~ msgstr "Lista de nodos para %s"
+
+#~ msgid "Author : %s"
+#~ msgstr "Autor : %s"
+
+#~ msgid "Page %N of %Q"
+#~ msgstr "Página %N de %Q"
+
+#~ msgid "Enables some debugging functions"
+#~ msgstr "Habilita algunas funciones de depuración"
+
+#~ msgid "LEVEL"
+#~ msgstr "NIVEL"
+
+#~ msgid ""
+#~ "You seem to be running Oregano without\n"
+#~ "having it installed properly on your system.\n"
+#~ "\n"
+#~ "Please install Oregano and try again."
+#~ msgstr ""
+#~ "Parece que está ejecutando Oregano sin\n"
+#~ "haberlo instalado correctamente en su sistema.\n"
+#~ "\n"
+#~ "Por favor instálelo correctamete e intente de nuevo"
+
+#~ msgid ""
+#~ "Could not find a parts library.\n"
+#~ "\n"
+#~ "This is probably due to a faulty installation\n"
+#~ "of Oregano. Please check your installation."
+#~ msgstr ""
+#~ "No se pudo encontrar la biblioteca de componentes.\n"
+#~ "\n"
+#~ "Es probable que sea debido a una instalación errónea\n"
+#~ "de Oregano. Por favor revise su instalación."
+
+#~ msgid "Open file"
+#~ msgstr "Abrir archivo"
+
+#~ msgid "Netlist filename"
+#~ msgstr "Nombre del archivo netlist"
+
+#~ msgid ""
+#~ "(c) 2003-2006 LUGFi\n"
+#~ "(c) 1999-2001 Richard Hult"
+#~ msgstr ""
+#~ "(c) 2003-2006 LUGFi\n"
+#~ "(c) 1999-2001, Richard Hult"
+
+#~ msgid "Load fails!."
+#~ msgstr "¡Falló la carga!"
+
+#~ msgid ""
+#~ "The file %s could not be found. You might need to reinstall Oregano to "
+#~ "fix this"
+#~ msgstr ""
+#~ "No se pudo encontrar el archivo %s.  Puede ser que sea necesario "
+#~ "reinstalar Oregano para solucionarlo."
+
+#~ msgid "Could not create plot window"
+#~ msgstr "No se pudo crear la ventana de gráfico de curvas."
 
 #~ msgid "_View netlist"
 #~ msgstr "_Ver lista de nodos"
@@ -1270,9 +1596,6 @@ msgstr "No se pudo crear la ventana de gráfico de curvas."
 
 #~ msgid "GnuCap"
 #~ msgstr "GnuCap"
-
-#~ msgid "NgSpice"
-#~ msgstr "NgSpice"
 
 #~ msgid "Parser"
 #~ msgstr "IntÃ©rprete"
@@ -1345,9 +1668,6 @@ msgstr "No se pudo crear la ventana de gráfico de curvas."
 #~ "nodos</span>\n"
 #~ "\n"
 #~ "%s"
-
-#~ msgid "<span weight=\"bold\" size=\"x-large\">Unspected error!!!</span>"
-#~ msgstr "<span weight=\"bold\" size=\"x-large\">Error no esperado!!!</span>"
 
 #~ msgid "<span weight=\"bold\">Could not create log window.</span>"
 #~ msgstr "<span weight=\"bold\">No puede crear una ventana de log.</span>"
@@ -1439,9 +1759,6 @@ msgstr "No se pudo crear la ventana de gráfico de curvas."
 #~ msgid "./oregano_parser.pl"
 #~ msgstr "./oregano_parser.pl"
 
-#~ msgid "Oregano"
-#~ msgstr "Oregano"
-
 #~ msgid "ABCDEFGHIJK abcdefghi"
 #~ msgstr "ABCDEFGHIJK abcdefghi"
 
@@ -1514,12 +1831,6 @@ msgstr "No se pudo crear la ventana de gráfico de curvas."
 #~ msgid "-adobe-helvetica-medium-r-normal-*-8-*-*-*-*-*-*-*"
 #~ msgstr "-adobe-helvetica-medium-r-normal-*-8-*-*-*-*-*-*-*"
 
-#~ msgid "_Close"
-#~ msgstr "_Cerrar"
-
-#~ msgid "Print Schematic"
-#~ msgstr "Imprimir esquemÃ¡tico"
-
 #~ msgid "Print preview"
 #~ msgstr "Vista Preliminar"
 
@@ -1528,9 +1839,6 @@ msgstr "No se pudo crear la ventana de gráfico de curvas."
 
 #~ msgid "Paper Size"
 #~ msgstr "TamaÃ±o del papel"
-
-#~ msgid "Warning"
-#~ msgstr "Aviso"
 
 #~ msgid "Schematic %s has unsaved changes, save them?"
 #~ msgstr "El esquemÃ¡tico %s ha cambiado, Â¿quiere guardar los cambios?"
@@ -1610,9 +1918,6 @@ msgstr "No se pudo crear la ventana de gráfico de curvas."
 
 #~ msgid "Edit text label"
 #~ msgstr "Editar el texto de la etiqueta"
-
-#~ msgid "An electrical engineering tool.\n"
-#~ msgstr "Una herramienta para la IngenierÃ­a ElectrÃ³nica\n"
 
 #~ msgid ""
 #~ "To place the selected part, either press the 'Place' button, press the "
